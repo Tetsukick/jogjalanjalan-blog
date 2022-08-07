@@ -1,0 +1,30 @@
+services:
+  db:
+    image: mariadb:10.6.4-focal
+    platform: linux/amd64
+    command: '--default-authentication-plugin=mysql_native_password'
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=Jogjalanjalan_88
+      - MYSQL_DATABASE=wordpress
+      - MYSQL_USER=wordpress
+      - MYSQL_PASSWORD=Jogjalanjalan_88
+    expose:
+      - 3306
+      - 33060
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - 80:80
+    restart: always
+    environment:
+      - WORDPRESS_DB_HOST=db
+      - WORDPRESS_DB_USER=wordpress
+      - WORDPRESS_DB_PASSWORD=Jogjalanjalan_88
+      - WORDPRESS_DB_NAME=wordpress
+volumes:
+  db_data:
+# extra_hosts:
+#   - "localhost:192.168.1.4"
