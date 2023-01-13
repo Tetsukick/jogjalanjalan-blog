@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>じょぐじゃらんじゃらん</title>
-	<atom:link href="/feed/?simply_static_page=171" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>未分類 アーカイブ - じょぐじゃらんじゃらん</title>
+	<atom:link href="/category/uncategorized/feed/?simply_static_page=205" rel="self" type="application/rss+xml" />
+	<link>/category/uncategorized/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
 	<lastBuildDate>Sun, 07 Aug 2022 18:10:31 +0000</lastBuildDate>
 	<language>ja</language>
