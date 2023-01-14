@@ -9,10 +9,10 @@
 
 <channel>
 	<title>kikuchi (ジョグジャランジャラン の投稿者)</title>
-	<atom:link href="/author/kikuchi/feed/?simply_static_page=331" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/kikuchi/feed/?simply_static_page=450" rel="self" type="application/rss+xml" />
 	<link>/author/kikuchi/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 14 Jan 2023 10:37:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Jan 2023 12:10:57 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -198,29 +198,6 @@ Gudegとは、ジャックフルーツ(nangka)を使った甘い煮込み料理�
 					
 					<wfw:commentRss>/restaurant-top5-in-jogja/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[kikuchi]]></dc:creator>
-		<pubDate>Sun, 07 Aug 2022 18:10:31 +0000</pubDate>
-				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[<p>WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。</p>
-<p>投稿 <a rel="nofollow" href="/hello-world/">Hello world!</a> は <a rel="nofollow" href="/">ジョグジャランジャラン</a> に最初に表示されました。</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。</p>
-<p>投稿 <a rel="nofollow" href="/hello-world/">Hello world!</a> は <a rel="nofollow" href="/">ジョグジャランジャラン</a> に最初に表示されました。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
