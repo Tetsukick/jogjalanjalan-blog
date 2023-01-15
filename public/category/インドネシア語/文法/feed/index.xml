@@ -9,7 +9,7 @@
 
 <channel>
 	<title>文法  |  ジョグジャランジャラン</title>
-	<atom:link href="/category/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E8%AA%9E/%E6%96%87%E6%B3%95/feed/?simply_static_page=1023" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E8%AA%9E/%E6%96%87%E6%B3%95/feed/?simply_static_page=1333" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
 	<lastBuildDate>Sun, 15 Jan 2023 11:43:05 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>/standard-grammer-sv/</link>
 					<comments>/standard-grammer-sv/#respond</comments>
 		
-		<dc:creator><![CDATA[kikuchi]]></dc:creator>
+		<dc:creator><![CDATA[jogjalanjalan]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 11:25:41 +0000</pubDate>
 				<category><![CDATA[インドネシア語]]></category>
 		<category><![CDATA[文法]]></category>
