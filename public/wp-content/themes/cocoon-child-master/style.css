@@ -85,6 +85,54 @@ font-size: 20px;
 }
 
 /************************************
+****　サイドバー
+************************************/
+#sidebar>.widget{
+border-radius:10px;
+}
+.widget_search{
+padding:0;
+}
+span.fas.fa-search::before{
+color:#B71C1C;/*検索マーク色変更はこちら*/
+}
+.sidebar h3{
+color:#7b7b7b;
+border-radius: 0%;
+border-bottom:3px dotted;
+border-color:#B71C1C;/*タイトル下のライン色変更はこちら*/
+padding-bottom:0.3em;
+margin-top:-0.5em;
+margin-bottom:1em;
+}
+.widget_recent_entries ul li a, .widget_categories ul li a, .widget_archive ul li a, .widget_pages ul li a, .widget_meta ul li a, .widget_rss ul li a, .widget_nav_menu ul li a {
+background-color:#f7f7f7;
+margin: 6px 0;
+padding: 4px 10px;
+border-radius:20px;
+transition: 0.4s
+}
+.widget_recent_entries ul li a:hover, .widget_categories ul li a:hover, .widget_archive ul li a:hover, .widget_pages ul li a:hover, .widget_meta ul li a:hover, .widget_rss ul li a:hover, .widget_nav_menu ul li a:hover{
+background-color:#B71C1C;/*マウスオーバー時の背景色変更はこちら*/
+color:#fff!important;
+}
+.tagcloud a{
+background-color:#f7f7f7;
+}
+.tagcloud a:hover{
+background-color:#B71C1C;/*マウスオーバー時の背景色変更はこちら*/
+color:#fff!important;
+transition: 0.4s ;
+}
+.nwa .recommended.rcs-card-margin a {
+margin: 0 0 1em;
+width: 90%;
+}
+.widget-entry-cards .widget-entry-card-content{
+color: #565656;
+}
+
+/************************************
 ** レスポンシブデザイン用のメディアクエリ
 ************************************/
 /*1023px以下*/
