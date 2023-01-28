@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年1月23日 3:49 PM' -->
+<!-- generated-on='2023年1月28日 12:10 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/category/bahasa-indonesia/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>https://jogjalanjalan.com/category/life-in-indonesia/book/</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
@@ -30,4 +35,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
-</urlset><!-- Request ID: c35afa526b7738cabb23a4ccbc6382a8; Queries for sitemap: 4; Total queries: 36; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: d76c9729ab47600f44778a20699e86f5; Queries for sitemap: 4; Total queries: 44; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
