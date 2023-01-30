@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年1月28日 12:10 AM' -->
+<!-- generated-on='2023年1月30日 4:58 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/time-tense/</loc>
+		<lastmod>2023-01-17T17:50:11+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jogjalanjalan.com/bahasa-indonesia-app-best3/</loc>
+		<lastmod>2023-01-16T11:37:32+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/standard-grammer-sv-verb/</loc>
 		<lastmod>2023-01-15T19:15:29+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -24,4 +36,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 1eb720e0a09d02d4fa6be221c06283cb; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 2MB; Total memory: 6MB -->
+</urlset><!-- Request ID: 5a2377918d22db3586522ddc3532acef; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->

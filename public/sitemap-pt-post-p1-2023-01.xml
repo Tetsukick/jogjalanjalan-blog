@@ -1,8 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年1月28日 12:10 AM' -->
+<!-- generated-on='2023年1月30日 4:58 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/bintango-guidance/</loc>
+		<lastmod>2023-01-30T16:50:06+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jogjalanjalan.com/grammer-number/</loc>
+		<lastmod>2023-01-28T10:41:30+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/garuda-shounin/</loc>
-		<lastmod>2023-01-28T00:09:44+00:00</lastmod>
+		<lastmod>2023-01-28T10:39:23+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -48,16 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-	<url>
-		<loc>https://jogjalanjalan.com/time-tense/</loc>
-		<lastmod>2023-01-17T17:50:11+00:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>https://jogjalanjalan.com/bahasa-indonesia-app-best3/</loc>
-		<lastmod>2023-01-16T11:37:32+00:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>0.8</priority>
-	</url>
-</urlset><!-- Request ID: 6d3fbb7dfbf3f10e6bc7519b2b69b6a5; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 285ab28282dfab444f22d85197f3673a; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
