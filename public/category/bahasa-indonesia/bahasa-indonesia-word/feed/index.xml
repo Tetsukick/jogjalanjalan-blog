@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/bahasa-indonesia/bahasa-indonesia-word/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Mon, 30 Jan 2023 16:50:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Feb 2023 17:20:28 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,172 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア語文法講座 &#124; 動詞 -基語動詞-</title>
+		<link>https://jogjalanjalan.com/grammer-normal-verb/</link>
+					<comments>https://jogjalanjalan.com/grammer-normal-verb/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2023 17:20:02 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[単語]]></category>
+		<category><![CDATA[文法]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=356</guid>
+
+					<description><![CDATA[【インドネシア語 文法講座】動詞 -基語動詞- 目次 動詞の種類(基語動詞・ber動詞・me動詞)基語動詞動詞の否定文tidak: 現在の否定、且つ、将来にも肯定になる可能性がない(低い)場合belum: 現在の否定、将 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1>【インドネシア語 文法講座】動詞 -基語動詞-</h1>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-5 sbs-flat sbp-l sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/themes/cocoon-master/images/ojisan.png" alt="" class="speech-icon-image"/></figure><div class="speech-name"></div></div><div class="speech-balloon">
+<p>先生。。あのー。。<br>インドネシア語って、動詞がたくさんあるような感じがして難しく感じてしまいます。。<br>整理して覚えたいんですけど。。そもそもあまり分かっていなくて。。</p>
+</div></div>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>分かりました。<br>動詞にも種類があるので、まずはそこからコツを掴んでいきましょう！</p>
+</div></div>
+
+
+
+
+  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-2" checked><label class="toc-title" for="toc-checkbox-2">目次</label>
+    <div class="toc-content">
+    <ol class="toc-list open"></li><li><a href="#toc1" tabindex="0">動詞の種類(基語動詞・ber動詞・me動詞)</a></li><li><a href="#toc2" tabindex="0">基語動詞</a></li><li><a href="#toc3" tabindex="0">動詞の否定文</a><ol><li><a href="#toc4" tabindex="0">tidak: 現在の否定、且つ、将来にも肯定になる可能性がない(低い)場合</a></li><li><a href="#toc5" tabindex="0">belum: 現在の否定、将来は肯定になる可能性がある場合</a></li></ol></li><li><a href="#toc6" tabindex="0">おまけ</a></li></ol>
+    </div>
+  </div>
+
+<h2><span id="toc1">動詞の種類(基語動詞・ber動詞・me動詞)</span></h2>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>インドネシア語の動詞は大きく分けて３種類に分類することができます。</p>
+</div></div>
+
+
+
+<div class="wp-block-cocoon-blocks-tab-box-1 blank-box bb-tab bb-point block-box has-border-color has-light-blue-border-color">
+<figure class="wp-block-table"><table><tbody><tr><td>基語動詞</td><td>接頭辞・接尾辞のつかない動詞(語幹のみ)</td><td>主に(目的語を取らない)自動詞</td><td>例: pergi(行く)</td></tr><tr><td>ber動詞</td><td>ber + 動詞</td><td>主に自動詞</td><td>例: berasal(出身である)</td></tr><tr><td>me動詞</td><td>me + 動詞</td><td>主に他動詞</td><td>例: mencari(探す)</td></tr></tbody></table><figcaption class="wp-element-caption">インドネシア語の動詞の分類</figcaption></figure>
+</div>
+
+
+
+<p>自動詞とは、自分「自ら」のみで完結する動作などを表します。<br>他動詞とは、「他の」対象に対して影響が及ぶ動作などを表します。</p>
+
+
+
+<h2><span id="toc2">基語動詞</span></h2>
+
+
+
+<p>以下は、基語動詞の一部です。</p>
+
+
+
+<div class="wp-block-cocoon-blocks-tab-box-1 blank-box bb-tab bb-check block-box has-border-color has-yellow-border-color">
+<figure class="wp-block-table"><table><tbody><tr><td>インドネシア語</td><td>和訳</td><td>英訳</td></tr><tr><td>pergi</td><td>行く</td><td>go</td></tr><tr><td>hidup</td><td>生きる</td><td>live</td></tr><tr><td>datang</td><td>来る</td><td>come</td></tr><tr><td>mati</td><td>死ぬ</td><td>Death</td></tr><tr><td>makan</td><td>食べる</td><td>Eat</td></tr><tr><td>maju</td><td>前へ進む</td><td>Moving Forward</td></tr><tr><td>minum</td><td>飲む</td><td>drink</td></tr><tr><td>mundur</td><td>後退する,バックする,退く,引退する,辞任する</td><td>back off</td></tr><tr><td>masuk</td><td>入る</td><td>enter</td></tr><tr><td>lupa</td><td>忘れる</td><td>forget</td></tr><tr><td>keluar</td><td>出る</td><td>exit</td></tr><tr><td>ingat</td><td>覚えている、記憶</td><td>remember</td></tr><tr><td>bangun</td><td>起きる</td><td>wake up</td></tr><tr><td>tinggal</td><td>住む</td><td>live</td></tr><tr><td>tidur</td><td>寝る</td><td>sleep</td></tr><tr><td>pindah</td><td>うつる,引っ越す,乗り換える</td><td>move</td></tr><tr><td>pulang</td><td>帰る</td><td>go home</td></tr><tr><td>lewat</td><td>~を通して, 過ぎた</td><td>~Through, past</td></tr><tr><td>kembali</td><td>戻る</td><td>return</td></tr><tr><td>sampai</td><td>着く、〜まで</td><td>arrive, until</td></tr><tr><td>tiba</td><td>到着する</td><td>arrive</td></tr><tr><td>naik</td><td>乗る、上がる</td><td>get on, rise</td></tr><tr><td>mampir</td><td>立ち寄る</td><td>stop by</td></tr><tr><td>turun</td><td>降りる</td><td>getting off</td></tr><tr><td>tumbuh</td><td>生える、成長する</td><td>grow</td></tr><tr><td>jatuh</td><td>落ちる、下落する, 倒れる</td><td>fall</td></tr><tr><td>kawin</td><td>結婚,結婚する,動植物の交尾・交配</td><td>marry</td></tr><tr><td>duduk</td><td>座る</td><td>sit</td></tr><tr><td>mandi</td><td>浴びる</td><td>take a shower</td></tr></tbody></table><figcaption class="wp-element-caption">一般的な基語動詞</figcaption></figure>
+</div>
+
+
+
+<h2><span id="toc3">動詞の否定文</span></h2>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>名詞文の否定には&#8221;bukan&#8221;を使いましたね。</p>
+</div></div>
+
+
+
+<p><span class="marker-animation-286">動詞の否定</span>には、”<span class="marker-animation-286"><strong>tidak</strong></span>”あるいは&#8221;<span class="marker-animation-286"><strong>belum</strong></span>&#8220;を用います。</p>
+
+
+
+<div class="wp-block-cocoon-blocks-tab-box-1 blank-box bb-tab bb-check block-box has-border-color has-red-border-color">
+<p>tidak + 動詞 : ~しない</p>
+
+
+
+<p>belum + 動詞 : まだ~していない</p>
+</div>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>&#8220;tidak&#8221;と&#8221;belum&#8221;の使い分けは日本人はよく間違えてしまうケースが多いので注意しましょう。</p>
+</div></div>
+
+
+
+<h3><span id="toc4">tidak: 現在の否定、且つ、将来にも肯定になる可能性がない(低い)場合</span></h3>
+
+
+
+<p><span class="marker-animation-286">tidak</span> を使った否定文は、習慣や一般的真理、歴史的事実など、<span class="marker-animation-286">現在の否定が将来にも肯定になる可能性のないもの</span>や、可能性のあっても低い場合に用いられる。</p>
+
+
+
+<div class="wp-block-cocoon-blocks-tab-box-1 blank-box bb-tab bb-hint block-box">
+<p>例文：Di kamar ini tidak ada telepon<br>この部屋には電話がありません。<br><br>例文：Pemeluk agama Islam tidak makan daging babi<br>イスラム教徒は、豚肉を食べません。</p>
+</div>
+
+
+
+<h3><span id="toc5">belum: 現在の否定、将来は肯定になる可能性がある場合</span></h3>
+
+
+
+<p><span class="marker-animation-286">belum</span> を使った否定文は、<span class="marker-animation-286">現在は否定</span>だが、<span class="marker-animation-286">将来は肯定の可能性のある</span>場合に用いられる</p>
+
+
+
+<div class="wp-block-cocoon-blocks-tab-box-1 blank-box bb-tab bb-pickup block-box has-border-color has-red-border-color">
+<p>例文: Saya belum kawain<br>私はまだ結婚していません（独身です）<br><br>例文: Saya tidak kawin<br>私は結婚しません。(独身主義者です)</p>
+</div>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>このように&#8221;Tidak&#8221;と&#8221;Belum&#8221;では、大きく与える印象が異なる場合がありますので注意しましょう。</p>
+</div></div>
+
+
+
+<h2><span id="toc6">おまけ</span></h2>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>kamu sudah makan siang<br>(訳: 昼食はすでに食べましたか?)</p>
+</div></div>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-5 sbs-flat sbp-l sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/themes/cocoon-master/images/ojisan.png" alt="" class="speech-icon-image"/></figure><div class="speech-name"></div></div><div class="speech-balloon">
+<p>saya tidak makan.<br>(訳: 私は昼食を食べません)</p>
+</div></div>
+
+
+
+<div class="wp-block-cocoon-blocks-balloon-ex-box-1 speech-wrap sb-id-11 sbs-stn sbp-r sbis-cb cf block-box"><div class="speech-person"><figure class="speech-icon"><img decoding="async" src="https://jogjalanjalan.com/wp-content/uploads/2023/01/hijab_teacher_128.png" alt="Guru" class="speech-icon-image"/></figure><div class="speech-name">Guru</div></div><div class="speech-balloon">
+<p>あー、、<br>なので、こういう場合は&#8221;tidak&#8221;と&#8221;belum&#8221;の使い分けに注意しなければいけません。<br><br>インドネシア人は、sudah makan?(もう食べた?)は挨拶代わり、且つ、ご飯の誘い文句に使います。<br>ですが、tidakを使って返答してしまうと、ご飯を食べない人なんだと思われて、その後の会話が続かなくなってしまいます。<br>belum makanと答えることで、では一緒にごはんどうですか？や何を食べるつもりですか？などの会話につながるので、この場合は、基本的には&#8221;belum&#8221;を使いましょう！</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jogjalanjalan.com/grammer-normal-verb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>【インドネシア語】最強単語アプリ『BINTANGO』おすすめ機能</title>
 		<link>https://jogjalanjalan.com/bintango-guidance/</link>
 					<comments>https://jogjalanjalan.com/bintango-guidance/#respond</comments>
 		
-		<dc:creator><![CDATA[jogjalanjalan]]></dc:creator>
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Mon, 30 Jan 2023 16:50:06 +0000</pubDate>
 				<category><![CDATA[インドネシア語]]></category>
 		<category><![CDATA[単語]]></category>
@@ -53,7 +214,7 @@
 
 
 
-  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-2" checked><label class="toc-title" for="toc-checkbox-2">目次</label>
+  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-4" checked><label class="toc-title" for="toc-checkbox-4">目次</label>
     <div class="toc-content">
     <ol class="toc-list open"></li><li><a href="#toc1" tabindex="0">BINTANGOについて</a></li><li><a href="#toc2" tabindex="0">おすすめ機能① 辞書機能</a><ol><li><a href="#toc3" tabindex="0">特徴① 豊富な豆知識情報</a></li><li><a href="#toc4" tabindex="0">特徴② 音声機能</a></li><li><a href="#toc5" tabindex="0">特徴③ 検索、習熟度別・難易度別・カテゴリー別のフィルタ・ソート機能</a></li></ol></li><li><a href="#toc6" tabindex="0">おすすめ機能② 翻訳兼辞書一括検索機能</a><ol><li><a href="#toc7" tabindex="0">使い方</a></li></ol></li><li><a href="#toc8" tabindex="0">おすすめ機能③ 単語カード・クイズ機能</a><ol><li><a href="#toc9" tabindex="0">使い方</a></li></ol></li><li><a href="#toc10" tabindex="0">おすすめ機能④ 質問機能</a><ol><li><a href="#toc11" tabindex="0">質問の投稿の仕方</a></li></ol></li><li><a href="#toc12" tabindex="0">最後に</a></li></ol>
     </div>
@@ -406,7 +567,7 @@
 		<link>https://jogjalanjalan.com/grammer-number/</link>
 					<comments>https://jogjalanjalan.com/grammer-number/#respond</comments>
 		
-		<dc:creator><![CDATA[jogjalanjalan]]></dc:creator>
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sat, 28 Jan 2023 10:36:50 +0000</pubDate>
 				<category><![CDATA[インドネシア語]]></category>
 		<category><![CDATA[単語]]></category>
@@ -437,7 +598,7 @@
 </div>
 <p>&nbsp;</p>
 
-  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-4" checked><label class="toc-title" for="toc-checkbox-4">目次</label>
+  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-6" checked><label class="toc-title" for="toc-checkbox-6">目次</label>
     <div class="toc-content">
     <ol class="toc-list open"></li><li><a href="#toc1" tabindex="0">基本の数字</a><ol><li><a href="#toc2" tabindex="0">0 ~ 10</a></li><li><a href="#toc3" tabindex="0">11 ~ 19</a></li><li><a href="#toc4" tabindex="0">20以上</a></li><li><a href="#toc5" tabindex="0">100, 1000, 1,000,000, 100,000,000, 100,000,000,000</a></li></ol></li><li><a href="#toc6" tabindex="0">小数</a></li><li><a href="#toc7" tabindex="0">分数</a></li><li><a href="#toc8" tabindex="0">計算記号</a></li><li><a href="#toc9" tabindex="0">序数</a></li><li><a href="#toc10" tabindex="0">助数詞</a></li></ol>
     </div>
@@ -878,7 +1039,7 @@ sampai jumpa pelajaran selanjutnya!</p>
 		<link>https://jogjalanjalan.com/bahasa-indonesia-app-best3/</link>
 					<comments>https://jogjalanjalan.com/bahasa-indonesia-app-best3/#respond</comments>
 		
-		<dc:creator><![CDATA[jogjalanjalan]]></dc:creator>
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Mon, 16 Jan 2023 11:37:32 +0000</pubDate>
 				<category><![CDATA[インドネシア語]]></category>
 		<category><![CDATA[単語]]></category>
@@ -889,7 +1050,7 @@ sampai jumpa pelajaran selanjutnya!</p>
 										<content:encoded><![CDATA[<h1>在住者おすすめ！！本気で使える！身につく！インドネシア語学習アプリ３選！！</h1>
 <p>&nbsp;</p>
 
-  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-6" checked><label class="toc-title" for="toc-checkbox-6">目次</label>
+  <div id="toc" class="toc tnt-number toc-center tnt-number border-element"><input type="checkbox" class="toc-checkbox" id="toc-checkbox-8" checked><label class="toc-title" for="toc-checkbox-8">目次</label>
     <div class="toc-content">
     <ol class="toc-list open"></li><li><a href="#toc1" tabindex="0">BINTANGO</a><ol><li><a href="#toc2" tabindex="0">おすすめ機能</a><ol><li><a href="#toc3" tabindex="0">① 単語帳機能 + クイズ形式で定着力UP</a></li><li><a href="#toc4" tabindex="0">② レベル/頻出度/カテゴリー/品詞別の単語学習</a></li><li><a href="#toc5" tabindex="0">③ 豊富な情報満載の辞書機能</a></li></ol></li></ol></li><li><a href="#toc6" tabindex="0">Duolingo</a><ol><li><a href="#toc7" tabindex="0">おすすめ機能</a><ol><li><a href="#toc8" tabindex="0">豊富な学習パターンの提供</a></li><li><a href="#toc9" tabindex="0">継続日数表示で継続学習をサポート</a></li></ol></li></ol></li><li><a href="#toc10" tabindex="0">Drops</a><ol><li><a href="#toc11" tabindex="0">おすすめ機能</a><ol><li><a href="#toc12" tabindex="0">イラストメインの直観的な操作</a></li></ol></li></ol></li></ol>
     </div>
