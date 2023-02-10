@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年2月10日 9:47 PM' -->
+<!-- generated-on='2023年2月10日 10:05 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/category/bahasa-indonesia/</loc>
 		<changefreq>daily</changefreq>
@@ -35,4 +35,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
-</urlset><!-- Request ID: f86352628a39640d695003cf6b8170b7; Queries for sitemap: 4; Total queries: 44; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 2c6abc887bfb040abee9df1551800a11; Queries for sitemap: 4; Total queries: 44; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
