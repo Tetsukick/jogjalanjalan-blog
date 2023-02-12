@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年2月10日 10:05 PM' -->
+<!-- generated-on='2023年2月12日 5:20 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/bintango-guidance/</loc>
 		<lastmod>2023-01-30T16:50:06+00:00</lastmod>
@@ -26,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/jogja-pantai-timang/</loc>
-		<lastmod>2023-01-25T15:12:53+00:00</lastmod>
+		<lastmod>2023-02-11T20:47:34+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -38,7 +38,7 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/jogja-hotel-best5/</loc>
-		<lastmod>2023-01-23T15:48:44+00:00</lastmod>
+		<lastmod>2023-02-11T20:23:26+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -50,7 +50,7 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/merapi-jeep-lava-tour/</loc>
-		<lastmod>2023-01-18T23:10:12+00:00</lastmod>
+		<lastmod>2023-02-11T20:21:51+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -60,4 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 25f6d5887df371606eac5692663c501e; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 708fa94afda2f417c537eed987aaabe9; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
