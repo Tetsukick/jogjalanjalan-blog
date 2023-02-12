@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年2月11日 8:48 PM' -->
+<!-- generated-on='2023年2月12日 5:20 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/</loc>
+		<lastmod>2023-02-12T05:19:48+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/souvenior-jogja-best5/</loc>
 		<lastmod>2023-02-11T20:25:24+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -12,4 +18,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 00644acacf67f285a369abfe9af50bbd; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: dc642a1d0b1a50f97804e6f7649741e2; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
