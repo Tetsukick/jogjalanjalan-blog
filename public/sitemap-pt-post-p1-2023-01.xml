@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年2月12日 9:22 AM' -->
+<!-- generated-on='2023年2月20日 11:40 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/bintango-guidance/</loc>
 		<lastmod>2023-01-30T16:50:06+00:00</lastmod>
@@ -60,4 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: bf804307cc494d636dc9039671a3efcb; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: f90070386310f6d9be47298cce1d539e; Queries for sitemap: 2; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
