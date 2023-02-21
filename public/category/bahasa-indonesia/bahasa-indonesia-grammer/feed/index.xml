@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/bahasa-indonesia/bahasa-indonesia-grammer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 08 Feb 2023 17:20:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Feb 2023 18:02:50 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア語文法講座 &#124; 疑問詞 &#8211; 5W1H &#8211;</title>
+		<link>https://jogjalanjalan.com/interrogative/</link>
+					<comments>https://jogjalanjalan.com/interrogative/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 18:02:50 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[文法]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=448</guid>
+
+					<description><![CDATA[目次 何が? Apaだれ？ Siapaいつ？ Kapanどちら？ manaどこで？ Dimana(di mana)どこへ？ Kemanaどこから? Dari manaどのように？Bagaimana / Gimanaいくつ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/interrogative/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア語文法講座 &#124; 動詞 -基語動詞-</title>
 		<link>https://jogjalanjalan.com/grammer-normal-verb/</link>
 					<comments>https://jogjalanjalan.com/grammer-normal-verb/#respond</comments>
