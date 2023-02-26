@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Tue, 21 Feb 2023 18:02:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Feb 2023 11:54:04 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>和心 Wagokoro &#124; ジョグジャカルタ日本食レストラン</title>
+		<link>https://jogjalanjalan.com/wagokoro/</link>
+					<comments>https://jogjalanjalan.com/wagokoro/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 11:54:04 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[現地生活]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=455</guid>
+
+					<description><![CDATA[ジョグジャカルタで生活する上で、多くの方が直面する問題。それが、、”日本食が恋しい！！” 今回の記事では、ジョグジャカルタ在住の日本人のそんな悩みを解決してくれる日本人経営の唯一の日本食レストランを紹介いたします。 和心 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/wagokoro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア語文法講座 &#124; 疑問詞 &#8211; 5W1H &#8211;</title>
 		<link>https://jogjalanjalan.com/interrogative/</link>
 					<comments>https://jogjalanjalan.com/interrogative/#respond</comments>
@@ -273,24 +292,6 @@
 					<description><![CDATA[インドネシアで家探し! 家探し方法から頭金の支払いまで 今回インドネシアで一軒家(kontrakan)を契約することになったので、 家探し方法から、契約時にチェックすること、頭金入金の様子などを経験談としてお届けします。 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/search-house-in-indonesia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ムラピ火山JEEPツアー！ジョグジャカルタ在住者おすすめ！</title>
-		<link>https://jogjalanjalan.com/merapi-jeep-lava-tour/</link>
-					<comments>https://jogjalanjalan.com/merapi-jeep-lava-tour/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Wed, 18 Jan 2023 23:10:12 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=191</guid>
-
-					<description><![CDATA[ジョグジャで体験できるムラピ火山でのジープツアー 山！！川！！自然！！資料館！！歴史！！が盛りだくさんのツアーです。 ムラピ火山JEEPツアーの内容 川を利用したド派手な水しぶきアクティビティ ムラピ火山をバックにして高 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/merapi-jeep-lava-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
