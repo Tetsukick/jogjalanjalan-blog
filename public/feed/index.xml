@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 26 Feb 2023 15:01:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Mar 2023 17:29:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>IMEI登録? iPhoneを日本で買うべきかインドネシアで買うべきか</title>
+		<link>https://jogjalanjalan.com/best-way-buy-iphone/</link>
+					<comments>https://jogjalanjalan.com/best-way-buy-iphone/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 15 Mar 2023 17:19:14 +0000</pubDate>
+				<category><![CDATA[現地生活]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=430</guid>
+
+					<description><![CDATA[インドネシア在住の皆さん！iPhoneって2,3年に一度は買い換える、それなりに大きな買い物かと思いますが、、2020年04月以降、海外からの持ち込み端末についてはIMEIの登録が必須になり関税を支払う必要が出てきたり、 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/best-way-buy-iphone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>和心 Wagokoro &#124; ジョグジャカルタ日本食レストラン</title>
 		<link>https://jogjalanjalan.com/wagokoro/</link>
 					<comments>https://jogjalanjalan.com/wagokoro/#respond</comments>
@@ -275,23 +292,6 @@
 					<description><![CDATA[在住者おすすめ！ジョグジャカルタおすすめホテル5選 ジョグジャカルタには、遺跡系スポット、山系アクティビティスポット、海系アクティビティスポット、などなど、見どころが盛りだくさんですが、それぞれのスポットは比較的に離れて [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-hotel-best5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>インドネシアで一軒家を借りる 【家探し 〜 頭金支払い 編】</title>
-		<link>https://jogjalanjalan.com/search-house-in-indonesia/</link>
-					<comments>https://jogjalanjalan.com/search-house-in-indonesia/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 22 Jan 2023 05:52:05 +0000</pubDate>
-				<category><![CDATA[現地生活]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=212</guid>
-
-					<description><![CDATA[インドネシアで家探し! 家探し方法から頭金の支払いまで 今回インドネシアで一軒家(kontrakan)を契約することになったので、 家探し方法から、契約時にチェックすること、頭金入金の様子などを経験談としてお届けします。 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/search-house-in-indonesia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
