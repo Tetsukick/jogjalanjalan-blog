@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/bahasa-indonesia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Tue, 21 Feb 2023 18:02:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Mar 2023 05:17:17 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>日時の表し方 &#8211; 昨日・明日・今朝・昨晩 &#8211; &#124; インドネシア語文法講座</title>
+		<link>https://jogjalanjalan.com/bahasa-indonesia-datetime/</link>
+					<comments>https://jogjalanjalan.com/bahasa-indonesia-datetime/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 19 Mar 2023 05:17:17 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[文法]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=480</guid>
+
+					<description><![CDATA[目次 日の表し方昨日、今日、明日今朝、今晩使用例昨晩、翌朝使用例 日の表し方 昨日、今日、明日 上記の表で示した通り、一昨日から明後日までの表現については、それらを表す単語があります。3日以上前、3日以上後の日時について [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/bahasa-indonesia-datetime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア語文法講座 &#124; 疑問詞 &#8211; 5W1H &#8211;</title>
 		<link>https://jogjalanjalan.com/interrogative/</link>
 					<comments>https://jogjalanjalan.com/interrogative/#respond</comments>

@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 15 Mar 2023 17:29:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Mar 2023 05:17:17 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>日時の表し方 &#8211; 昨日・明日・今朝・昨晩 &#8211; &#124; インドネシア語文法講座</title>
+		<link>https://jogjalanjalan.com/bahasa-indonesia-datetime/</link>
+					<comments>https://jogjalanjalan.com/bahasa-indonesia-datetime/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 19 Mar 2023 05:17:17 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[文法]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=480</guid>
+
+					<description><![CDATA[日の表し方 昨日、今日、明日 上記の表で示した通り、一昨日から明後日までの表現については、それらを表す単語があります。3日以上前、3日以上後の日時については、yang lalu(過ぎた)やyang akan datang [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/bahasa-indonesia-datetime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>IMEI登録? iPhoneを日本で買うべきかインドネシアで買うべきか</title>
 		<link>https://jogjalanjalan.com/best-way-buy-iphone/</link>
 					<comments>https://jogjalanjalan.com/best-way-buy-iphone/#respond</comments>
@@ -274,24 +292,6 @@
 					<description><![CDATA[インドネシアで500万部超えの大ヒット小説 &#8220;Laskar Pelangi&#8221; (邦題: 虹の少年たち) &#160; 個人的書評 あまり小説が読まれないインドネシアで500万人以上に読まれたと言わ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/indonesia-book-laskar-perangi/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタのおすすめホテル5選！在住者おすすめ！</title>
-		<link>https://jogjalanjalan.com/jogja-hotel-best5/</link>
-					<comments>https://jogjalanjalan.com/jogja-hotel-best5/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Mon, 23 Jan 2023 15:47:20 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=227</guid>
-
-					<description><![CDATA[在住者おすすめ！ジョグジャカルタおすすめホテル5選 ジョグジャカルタには、遺跡系スポット、山系アクティビティスポット、海系アクティビティスポット、などなど、見どころが盛りだくさんですが、それぞれのスポットは比較的に離れて [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/jogja-hotel-best5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
