@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.7' -->
-<!-- generated-on='2023年3月19日 5:23 AM' -->
+<!-- generated-on='2023年3月22日 10:56 AM' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-misc.xml</loc>
-		<lastmod>2023-03-19T05:17:17+00:00</lastmod>
+		<lastmod>2023-03-22T10:55:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-1.xml</loc>
-		<lastmod>2023-03-19T05:17:17+00:00</lastmod>
+		<lastmod>2023-03-22T10:55:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-03.xml</loc>
-		<lastmod>2023-03-19T05:17:17+00:00</lastmod>
+		<lastmod>2023-03-22T10:55:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-02.xml</loc>
@@ -18,14 +18,14 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-01.xml</loc>
-		<lastmod>2023-02-12T07:03:42+00:00</lastmod>
+		<lastmod>2023-03-22T10:53:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p2-2023-01.xml</loc>
-		<lastmod>2023-02-12T07:03:42+00:00</lastmod>
+		<lastmod>2023-03-22T10:53:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-page-p1-2023-01.xml</loc>
 		<lastmod>2023-02-21T16:38:46+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 4676342187c65d5b1a97beb729d49be2; Queries for sitemap: 9; Total queries: 50; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 14MB -->
+</sitemapindex><!-- Request ID: feb44422b378ac45928eac51e1897552; Queries for sitemap: 9; Total queries: 50; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
