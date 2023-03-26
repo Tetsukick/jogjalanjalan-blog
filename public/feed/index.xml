@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 22 Mar 2023 10:55:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Mar 2023 18:58:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタが舞台！インドネシア小説『利権聖域』レビュー</title>
+		<link>https://jogjalanjalan.com/riken-seiiki/</link>
+					<comments>https://jogjalanjalan.com/riken-seiiki/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2023 18:15:17 +0000</pubDate>
+				<category><![CDATA[インドネシア関連本]]></category>
+		<category><![CDATA[現地生活]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=496</guid>
+
+					<description><![CDATA[この小説、なんとジョグジャカルタのプランバナンが作中の一つの舞台になっているんですよ！ ジョグジャカルタ在住の僕にはなんとも、趣深いというか、なんというか、、小説の舞台の場所でその小説を読むって最高の贅沢じゃないですか！ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/riken-seiiki/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ボロブドゥール寺院(Borobudur)への行き方&#124;空港・市内からのアクセス</title>
 		<link>https://jogjalanjalan.com/access-to-borobudur/</link>
 					<comments>https://jogjalanjalan.com/access-to-borobudur/#respond</comments>
@@ -274,24 +292,6 @@
 					<description><![CDATA[【インドネシア語 文法講座】人称代名詞 (一人称・二人称・三人称・単数・複数) &#160; 先生！インドネシア語の人称代名詞について教えて下さい！ Guru はい、では本日はインドネシア語で&#8221;私&#8221 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/grammer-pronouns/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタ観光 絶景海岸ゴンドラ旅！在住者おすすめ！</title>
-		<link>https://jogjalanjalan.com/jogja-pantai-timang/</link>
-					<comments>https://jogjalanjalan.com/jogja-pantai-timang/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Wed, 25 Jan 2023 15:12:53 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=255</guid>
-
-					<description><![CDATA[ジョグジャカルタ在住者おすすめ! 絶景海岸 Timang ビーチ！！ゴンドラ旅！！ 見てください！この夕暮れ時の絶景！ これ、ジョグジャカルタなんです！こんな大自然を満喫できるジョグジャカルタ郊外のおすすめ観光スポットを [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/jogja-pantai-timang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
