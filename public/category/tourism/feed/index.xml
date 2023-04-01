@@ -12,13 +12,13 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 22 Mar 2023 10:55:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Apr 2023 19:01:04 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタ &#124; 観光の中心地でオカマキャバレーショー？ジョグジャのおすすめスポット</title>
+		<link>https://jogjalanjalan.com/raminten-cabaret-show/</link>
+					<comments>https://jogjalanjalan.com/raminten-cabaret-show/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 01 Apr 2023 18:37:20 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=506</guid>
+
+					<description><![CDATA[たまーに、このような質問を受けることがあって、そんな僕がちょっと変わった観光スポットとして、強くおすすめしている観光スポットがあります！ それは、な、な、なんと、ジョグジャカルタの観光の中心地マリオボロ通りにニューハーフ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/raminten-cabaret-show/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ボロブドゥール寺院(Borobudur)への行き方&#124;空港・市内からのアクセス</title>
 		<link>https://jogjalanjalan.com/access-to-borobudur/</link>
 					<comments>https://jogjalanjalan.com/access-to-borobudur/#respond</comments>
