@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 08 Apr 2023 11:42:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Apr 2023 06:45:48 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャでアート &#124; Jogja National Museum ジョグジャ国立美術館に行ってみた</title>
+		<link>https://jogjalanjalan.com/jogja-national-museum/</link>
+					<comments>https://jogjalanjalan.com/jogja-national-museum/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2023 06:45:47 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=550</guid>
+
+					<description><![CDATA[Yogyakarta(ジョグジャカルタ)は、インドネシア芸術大学があったり、バティックやワヤンなどの昔から受け継がれている伝統的な芸術文化があったり、実はインドネシア国内では有数の芸術都市の一つです。 今回の記事では、そ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/jogja-national-museum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア人に絶対に喜ばれる日本のお土産10選</title>
 		<link>https://jogjalanjalan.com/japan-souvenir-best8/</link>
 					<comments>https://jogjalanjalan.com/japan-souvenir-best8/#respond</comments>
@@ -273,25 +291,6 @@
 					<description><![CDATA[インドネシア語最強単語アプリ&#8221;BINTANGO&#8221;おすすめ機能・使い方の紹介 2022年3月、インドネシア語単語アプリ&#8221;BINTANGO&#8221;をリリースいたしました。 本記事では [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/bintango-guidance/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>【インドネシア語文法講座】数詞・数の表し方</title>
-		<link>https://jogjalanjalan.com/grammer-number/</link>
-					<comments>https://jogjalanjalan.com/grammer-number/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 28 Jan 2023 10:36:50 +0000</pubDate>
-				<category><![CDATA[インドネシア語]]></category>
-		<category><![CDATA[単語]]></category>
-		<category><![CDATA[文法]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=307</guid>
-
-					<description><![CDATA[【インドネシア語文法講座】数詞・数の表し方 &#8211; 小数・分数・計算・序数・単位 &#8211; &#160; せんせい！ インドネシア語でお会計の際など、まだまだ数字の読み方や聞き取りに不安があります。 Gur [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/grammer-number/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
