@@ -6,7 +6,7 @@ Theme URI: https://wp-cocoon.com/
 Author: わいひら
 Author URI: https://nelog.jp/
 Text Domain: cocoon
-Version: 2.5.7.11
+Version: 2.5.8.3
 Requires at least: 5.7.0
 Requires PHP: 7.4.0
 Tags: two-columns, left-sidebar, right-sidebar
@@ -1553,8 +1553,7 @@ img.emoji {
   margin-bottom: 3em;
 }
 
-pre,
-pre * {
+pre {
   line-height: 1.6;
   word-wrap: normal;
 }
@@ -6065,6 +6064,11 @@ figcaption {
   margin-left: auto !important;
 }
 
+.wp-block-pullquote.has-background blockquote {
+  background-color: transparent;
+  border-color: transparent;
+}
+
 .column-wrap {
   display: flex;
   justify-content: space-between;
@@ -6281,6 +6285,9 @@ figcaption {
 .comment-form .logged-in-as {
   margin: 0.2em;
   font-size: 0.8em;
+}
+.comment-form .submit {
+  margin: 1em 0;
 }
 
 .comment-area.website-hide .comment-form-url {
@@ -8088,6 +8095,7 @@ div.fb-like-mobile {
 }
 
 .go-to-top-button {
+  border-width: 0;
   background-color: #eee;
   color: #333;
   text-decoration: none;
@@ -8603,7 +8611,7 @@ https://codepen.io/nxworld/pen/oLdoWb
 .iconlist-box li::before {
   font-family: FontAwesome;
   margin-right: 0.4em;
-  margin-left: -1em;
+  margin-left: -1.4em;
   position: absolute;
 }
 
@@ -9072,9 +9080,13 @@ https://codepen.io/nxworld/pen/oLdoWb
 }
 
 .info-list-item {
-  padding: 10px 0;
+  padding: 14px 0;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.6;
+}
+
+.info-list-item-content {
+  margin-bottom: 8px;
 }
 
 .is-style-divider-line .info-list-item {
@@ -9084,9 +9096,24 @@ https://codepen.io/nxworld/pen/oLdoWb
   border-bottom-style: none;
 }
 
-.info-list-item-date {
+.info-list-item-meta {
   font-size: 12px;
   opacity: 0.6;
+  line-height: 20px;
+}
+
+.info-list-item-date {
+  margin-right: 18px;
+}
+
+.info-list-item-categorys .entry-category {
+  padding: 1px 18px;
+  margin-right: 8px;
+  border: 1px solid #999;
+  height: 20px;
+  line-height: 17px;
+  display: inline-block;
+  border-radius: 2px;
 }
 
 .info-list-item-content-link {

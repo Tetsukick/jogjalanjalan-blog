@@ -129,6 +129,11 @@
   //コメントボタンがクリックされたとき
   $('#comment-reply-btn, .comment-reply-link').click(function () {
     $('#comment-reply-btn').slideUp();
+    const respond = document.getElementById('respond');
+    const styles = { inset: 'auto', position: 'static', visibility: 'visible' };
+    Object.entries(styles).forEach(([key, value]) => {
+      respond.style[key] = value;
+    });
     $('#respond').slideDown();
   });
 
@@ -209,7 +214,6 @@
     }
     vw = window.innerWidth;
   });
-
 })(jQuery);
 
 /*
