@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 23 Apr 2023 17:54:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Apr 2023 08:12:17 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPTを使って、日本語インドネシア語の例文作成・翻訳を自動化した話</title>
+		<link>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/</link>
+					<comments>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2023 19:45:00 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[ビジネス]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=616</guid>
+
+					<description><![CDATA[2023年に入り、巷でかなり話題になっているのがAI技術のChatGPT関連の情報ですね。 今回は、ChatGPTを活用して、日本語とインドネシア語の例文作成作業・翻訳作業を自動化したので、その方法について詳しく紹介して [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシアで食べなきゃ損！おすすめ南国フルーツ・果物10選！</title>
 		<link>https://jogjalanjalan.com/best10-fuits-in-indonesia/</link>
 					<comments>https://jogjalanjalan.com/best10-fuits-in-indonesia/#respond</comments>
@@ -271,24 +289,6 @@
 					<description><![CDATA[インドネシアのお酒事情は、国民の90%程度がイスラム教徒のこともあり、日本人の私からするとなかなか良いものではありません。。 というより、とにかく高いです。。 そんな私が長くインドネシア生活をする上で、比較的、インドネシ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタのおすすめお土産10選！在住者おすすめ！</title>
-		<link>https://jogjalanjalan.com/souvenior-jogja-best5/</link>
-					<comments>https://jogjalanjalan.com/souvenior-jogja-best5/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Fri, 10 Feb 2023 21:37:47 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=362</guid>
-
-					<description><![CDATA[ジョグジャカルタ在住者がおすすめするジョグジャのお土産ベスト10を紹介！！ 実際にジョグジャに住んでいる私がジャカルタや日本に帰る際にお土産で買うものなどを含め勝手にランキング形式で紹介したいと思います！ 10位 Gul [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/souvenior-jogja-best5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
