@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/bahasa-indonesia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 19 Mar 2023 05:17:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Apr 2023 07:46:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ChatGPTを使って、日本語インドネシア語の例文作成・翻訳を自動化した話</title>
+		<link>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/</link>
+					<comments>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2023 19:45:00 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[ビジネス]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=616</guid>
+
+					<description><![CDATA[2023年に入り、巷でかなり話題になっているのがAI技術のChatGPT関連の情報ですね。 今回は、ChatGPTを活用して、日本語とインドネシア語の例文作成作業・翻訳作業を自動化したので、その方法について詳しく紹介して [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>日時の表し方 &#8211; 昨日・明日・今朝・昨晩 &#8211; &#124; インドネシア語文法講座</title>
 		<link>https://jogjalanjalan.com/bahasa-indonesia-datetime/</link>
 					<comments>https://jogjalanjalan.com/bahasa-indonesia-datetime/#respond</comments>
