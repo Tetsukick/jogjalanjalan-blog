@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Thu, 27 Apr 2023 08:33:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Apr 2023 17:54:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア国内で買える日本の調味料</title>
+		<link>https://jogjalanjalan.com/seasoning-japan/</link>
+					<comments>https://jogjalanjalan.com/seasoning-japan/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2023 17:54:58 +0000</pubDate>
+				<category><![CDATA[現地生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=651</guid>
+
+					<description><![CDATA[インドネシアで生活する上では、どうしても、日本の家庭料理が恋しくなるタイミングはありますよね？ 外食だけでは限界もあり、どうしても料理したくなることがあります。 そこでインドネシアで、日本でよく使う調味料がどのように手に [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/seasoning-japan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>南国フルーツ ランブータン とは？</title>
 		<link>https://jogjalanjalan.com/rambutan/</link>
 					<comments>https://jogjalanjalan.com/rambutan/#respond</comments>
@@ -274,23 +292,6 @@
 					<description><![CDATA[何が? Apa 疑問詞の&#8221;Apa&#8221;は、”何”を意味する言葉です。”何を”, &#8220;何の&#8221;, &#8220;何を使って&#8221;, &#8220;何ですか&#8221;といっ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/interrogative/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>日本で買っておくべき幸福度アップアイテム &#124; 海外移住</title>
-		<link>https://jogjalanjalan.com/best-buy-from-japan/</link>
-					<comments>https://jogjalanjalan.com/best-buy-from-japan/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 19 Feb 2023 06:49:42 +0000</pubDate>
-				<category><![CDATA[現地生活]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=432</guid>
-
-					<description><![CDATA[はじめての海外移住。 なにかと不安なことがたくさんありますよね？ 海外生活、もちろんその国々にあるもので楽しめるようになることに越したことはありません。それでも2,30年以上、日本で生きてきたこの身体はどうしても日本の味 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/best-buy-from-japan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
