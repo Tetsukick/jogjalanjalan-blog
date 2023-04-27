@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.9' -->
-<!-- generated-on='2023年4月25日 3:59 AM' -->
+<!-- generated-on='2023年4月26日 6:49 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/digital-indonesia-2023/</loc>
+		<lastmod>2023-04-26T06:34:56+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/</loc>
 		<lastmod>2023-04-24T07:46:25+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -36,4 +42,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 8ed23c64b9afa612b1d769e8389a8ddc; Queries for sitemap: 2; Total queries: 35; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 29f9ba90bddd35f846e49cc97c720b55; Queries for sitemap: 2; Total queries: 35; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->

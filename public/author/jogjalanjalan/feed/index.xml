@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Mon, 24 Apr 2023 08:12:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Apr 2023 06:34:56 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>2023年 インドネシアデジタル市場分析</title>
+		<link>https://jogjalanjalan.com/digital-indonesia-2023/</link>
+					<comments>https://jogjalanjalan.com/digital-indonesia-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 18:00:00 +0000</pubDate>
+				<category><![CDATA[ビジネス]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=611</guid>
+
+					<description><![CDATA[DIGITAL 2023: INDONESIA　概要 このレポートは、インドネシアにおけるデジタルマーケティングの現状と将来のトレンドを分析しています。インドネシアの人口が約2億8000万人を超え、インターネット利用者数 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/digital-indonesia-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ChatGPTを使って、日本語インドネシア語の例文作成・翻訳を自動化した話</title>
 		<link>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/</link>
 					<comments>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/#respond</comments>
@@ -272,23 +289,6 @@
 					<description><![CDATA[これまで、インドネシア語学習用の参考書や書籍など10冊以上は購入して目を通してきました。 で、、 今回は、著者自身の経験をふまえ、この質問にお答えさせていただきたいと思います。インドネシア語学習のおすすめ書籍・参考書・辞 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/recommended-indonesian-learning-books/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>インドネシアでお得にお酒を購入する方法</title>
-		<link>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/</link>
-					<comments>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 12 Feb 2023 05:19:47 +0000</pubDate>
-				<category><![CDATA[現地生活]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=407</guid>
-
-					<description><![CDATA[インドネシアのお酒事情は、国民の90%程度がイスラム教徒のこともあり、日本人の私からするとなかなか良いものではありません。。 というより、とにかく高いです。。 そんな私が長くインドネシア生活をする上で、比較的、インドネシ [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
