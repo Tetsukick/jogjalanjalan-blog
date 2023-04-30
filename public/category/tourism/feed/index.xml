@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 29 Apr 2023 04:29:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Apr 2023 10:47:12 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタ 行き方 &#124; ジャカルタ⇔ジョグジャ</title>
+		<link>https://jogjalanjalan.com/from-jakarta-to-jogja/</link>
+					<comments>https://jogjalanjalan.com/from-jakarta-to-jogja/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2023 10:47:12 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=705</guid>
+
+					<description><![CDATA[本記事では、魅力的な観光都市・古都ジョグジャカルタ(Yogyakarta・jogja)への行き方を首都ジャカルタからのルートでご紹介いたします。ジョグジャカルタには、主に、飛行機、鉄道、高速バスで行くことができます。 目 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/from-jakarta-to-jogja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャ マリオボロ通り徹底攻略ガイド</title>
 		<link>https://jogjalanjalan.com/malioboro-perfect-guide/</link>
 					<comments>https://jogjalanjalan.com/malioboro-perfect-guide/#respond</comments>
