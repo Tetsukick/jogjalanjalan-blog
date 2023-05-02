@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 29 Apr 2023 04:29:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 May 2023 15:49:22 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタ 行き方 &#124; ジャカルタ⇔ジョグジャ</title>
+		<link>https://jogjalanjalan.com/from-jakarta-to-jogja/</link>
+					<comments>https://jogjalanjalan.com/from-jakarta-to-jogja/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2023 10:47:12 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=705</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/transportation-fromjakarta-to-jogja-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、魅力的な観光都市・古都ジョグジャカルタ(Yogyakarta・jogja)への行き方を首都ジャカルタからのルートでご紹介いたします。ジョグジャカルタには、主に、飛行機、鉄道、高速バスで行くことができます。 行 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/from-jakarta-to-jogja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャ マリオボロ通り徹底攻略ガイド</title>
 		<link>https://jogjalanjalan.com/malioboro-perfect-guide/</link>
 					<comments>https://jogjalanjalan.com/malioboro-perfect-guide/#respond</comments>
@@ -36,9 +54,10 @@
 		<pubDate>Sat, 29 Apr 2023 04:28:59 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=673</guid>
 
-					<description><![CDATA[本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/malioboro-guide-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/malioboro-perfect-guide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -54,9 +73,11 @@
 		<pubDate>Thu, 27 Apr 2023 17:54:58 +0000</pubDate>
 				<category><![CDATA[現地生活]]></category>
 		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[インドネシア生活]]></category>
+		<category><![CDATA[調味料]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=651</guid>
 
-					<description><![CDATA[インドネシアで生活する上では、どうしても、日本の家庭料理が恋しくなるタイミングはありますよね？ 外食だけでは限界もあり、どうしても料理したくなることがあります。 そこでインドネシアで、日本でよく使う調味料がどのように手に [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/japanese-seasoning-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアで生活する上では、どうしても、日本の家庭料理が恋しくなるタイミングはありますよね？ 外食だけでは限界もあり、どうしても料理したくなることがあります。 そこでインドネシアで、日本でよく使う調味料がどのように手に [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/seasoning-japan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -74,7 +95,7 @@
 		<category><![CDATA[食べ物]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=631</guid>
 
-					<description><![CDATA[本記事では、魅力的なトロピカルフルーツのランブータンについて、産地・旬の時期・保存方法・栄養価について詳しく紹介いたします。 ランブータンとは ランブータンは、東南アジアや南アメリカなどの熱帯地域に自生する、果皮が赤や黄 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/rambutan-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、魅力的なトロピカルフルーツのランブータンについて、産地・旬の時期・保存方法・栄養価について詳しく紹介いたします。 ランブータンとは ランブータンは、東南アジアや南アメリカなどの熱帯地域に自生する、果皮が赤や黄 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/rambutan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -91,7 +112,7 @@
 				<category><![CDATA[ビジネス]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=611</guid>
 
-					<description><![CDATA[DIGITAL 2023: INDONESIA　概要 このレポートは、インドネシアにおけるデジタルマーケティングの現状と将来のトレンドを分析しています。インドネシアの人口が約2億8000万人を超え、インターネット利用者数 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/digital-indonesia-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>DIGITAL 2023: INDONESIA　概要 このレポートは、インドネシアにおけるデジタルマーケティングの現状と将来のトレンドを分析しています。インドネシアの人口が約2億8000万人を超え、インターネット利用者数 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/digital-indonesia-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -109,7 +130,7 @@
 		<category><![CDATA[ビジネス]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=616</guid>
 
-					<description><![CDATA[2023年に入り、巷でかなり話題になっているのがAI技術のChatGPT関連の情報ですね。 今回は、ChatGPTを活用して、日本語とインドネシア語の例文作成作業・翻訳作業を自動化したので、その方法について詳しく紹介して [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/chatgpt-auto-translate-1024x536.png" class="webfeedsFeaturedVisual" /></p>2023年に入り、巷でかなり話題になっているのがAI技術のChatGPT関連の情報ですね。 今回は、ChatGPTを活用して、日本語とインドネシア語の例文作成作業・翻訳作業を自動化したので、その方法について詳しく紹介して [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -127,7 +148,7 @@
 		<category><![CDATA[食べ物]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=590</guid>
 
-					<description><![CDATA[インドネシアに住んでいる、あるいは、旅行で来たという方にぜひ一度試していただきたいのがやはり、豊富な南国フルーツの数々！ 中にはインドネシア近郊でしか収穫することのできない珍しいフルーツもあります。 インドネシアのフルー [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/fruits-in-indonesia-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアに住んでいる、あるいは、旅行で来たという方にぜひ一度試していただきたいのがやはり、豊富な南国フルーツの数々！ 中にはインドネシア近郊でしか収穫することのできない珍しいフルーツもあります。 インドネシアのフルー [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/best10-fuits-in-indonesia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -145,7 +166,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=571</guid>
 
-					<description><![CDATA[インドネシアのバティック(batik)は、世界的に有名な伝統的な布地で、手作業によって染色され、美しい模様が描かれています。この布地は、インドネシアにおける重要な文化遺産の一つであり、世界中で高い評価を得ています。バティ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/try-make-batik-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアのバティック(batik)は、世界的に有名な伝統的な布地で、手作業によって染色され、美しい模様が描かれています。この布地は、インドネシアにおける重要な文化遺産の一つであり、世界中で高い評価を得ています。バティ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-try-batik-90min/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -163,7 +184,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=550</guid>
 
-					<description><![CDATA[Yogyakarta(ジョグジャカルタ)は、インドネシア芸術大学があったり、バティックやワヤンなどの昔から受け継がれている伝統的な芸術文化があったり、実はインドネシア国内では有数の芸術都市の一つです。 今回の記事では、そ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/jogja-national-museum-1024x536.png" class="webfeedsFeaturedVisual" /></p>Yogyakarta(ジョグジャカルタ)は、インドネシア芸術大学があったり、バティックやワヤンなどの昔から受け継がれている伝統的な芸術文化があったり、実はインドネシア国内では有数の芸術都市の一つです。 今回の記事では、そ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-national-museum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -177,11 +198,10 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sat, 08 Apr 2023 11:42:42 +0000</pubDate>
-				<category><![CDATA[未分類]]></category>
-		<category><![CDATA[現地生活]]></category>
+				<category><![CDATA[現地生活]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=522</guid>
 
-					<description><![CDATA[インドネシア在住の日本人あるいは、インドネシアに出張される際に、悩まれるひとつのことがインドネシア人向けの日本のお土産選びではないでしょうか？ 本記事では、実際に今まで過去に購入したお土産やインドネシア人に実際に聞いてみ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/japan-souvenir-best8-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシア在住の日本人あるいは、インドネシアに出張される際に、悩まれるひとつのことがインドネシア人向けの日本のお土産選びではないでしょうか？ 本記事では、実際に今まで過去に購入したお土産やインドネシア人に実際に聞いてみ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/japan-souvenir-best8/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -199,7 +219,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=506</guid>
 
-					<description><![CDATA[たまーに、このような質問を受けることがあって、そんな僕がちょっと変わった観光スポットとして、強くおすすめしている観光スポットがあります！ それは、な、な、なんと、ジョグジャカルタの観光の中心地マリオボロ通りにニューハーフ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/raminten-cabatet-show-1024x536.png" class="webfeedsFeaturedVisual" /></p>たまーに、このような質問を受けることがあって、そんな僕がちょっと変わった観光スポットとして、強くおすすめしている観光スポットがあります！ それは、な、な、なんと、ジョグジャカルタの観光の中心地マリオボロ通りにニューハーフ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/raminten-cabaret-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -217,7 +237,7 @@
 		<category><![CDATA[現地生活]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=496</guid>
 
-					<description><![CDATA[この小説、なんとジョグジャカルタのプランバナンが作中の一つの舞台になっているんですよ！ ジョグジャカルタ在住の僕にはなんとも、趣深いというか、なんというか、、小説の舞台の場所でその小説を読むって最高の贅沢じゃないですか！ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/riken-seiiki-1024x536.png" class="webfeedsFeaturedVisual" /></p>この小説、なんとジョグジャカルタのプランバナンが作中の一つの舞台になっているんですよ！ ジョグジャカルタ在住の僕にはなんとも、趣深いというか、なんというか、、小説の舞台の場所でその小説を読むって最高の贅沢じゃないですか！ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/riken-seiiki/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -235,7 +255,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=487</guid>
 
-					<description><![CDATA[ジョグジャカルタ近郊の最大の観光スポットと言えば、ボロブドゥール(Borobudur)ですよね！ 実はこのBorobudurは、ジョグジャカルタ(Yogyakarta)県にあるのでなく、中部ジャワ(Jawa Tengah [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/how-to-go-to-borobudur-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ近郊の最大の観光スポットと言えば、ボロブドゥール(Borobudur)ですよね！ 実はこのBorobudurは、ジョグジャカルタ(Yogyakarta)県にあるのでなく、中部ジャワ(Jawa Tengah [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/access-to-borobudur/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -253,7 +273,7 @@
 		<category><![CDATA[文法]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=480</guid>
 
-					<description><![CDATA[日の表し方 昨日、今日、明日 上記の表で示した通り、一昨日から明後日までの表現については、それらを表す単語があります。3日以上前、3日以上後の日時については、yang lalu(過ぎた)やyang akan datang [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/datetime-1024x536.png" class="webfeedsFeaturedVisual" /></p>日の表し方 昨日、今日、明日 上記の表で示した通り、一昨日から明後日までの表現については、それらを表す単語があります。3日以上前、3日以上後の日時については、yang lalu(過ぎた)やyang akan datang [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/bahasa-indonesia-datetime/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -270,28 +290,9 @@
 				<category><![CDATA[現地生活]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=430</guid>
 
-					<description><![CDATA[インドネシア在住の皆さん！iPhoneって2,3年に一度は買い換える、それなりに大きな買い物かと思いますが、、2020年04月以降、海外からの持ち込み端末についてはIMEIの登録が必須になり関税を支払う必要が出てきたり、 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/buy-iphone-in-indonesia-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシア在住の皆さん！iPhoneって2,3年に一度は買い換える、それなりに大きな買い物かと思いますが、、2020年04月以降、海外からの持ち込み端末についてはIMEIの登録が必須になり関税を支払う必要が出てきたり、 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/best-way-buy-iphone/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>和心 Wagokoro &#124; ジョグジャカルタ日本食レストラン</title>
-		<link>https://jogjalanjalan.com/wagokoro/</link>
-					<comments>https://jogjalanjalan.com/wagokoro/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 26 Feb 2023 11:54:04 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[現地生活]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=455</guid>
-
-					<description><![CDATA[ジョグジャカルタで生活する上で、多くの方が直面する問題。それが、、”日本食が恋しい！！” 今回の記事では、ジョグジャカルタ在住の日本人のそんな悩みを解決してくれる日本人経営の唯一の日本食レストランを紹介いたします。 和心 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/wagokoro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

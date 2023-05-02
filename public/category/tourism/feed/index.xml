@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>インドネシア観光  |  ジョグジャランジャラン</title>
+	<title>観光 &#8211; ジョグジャランジャラン</title>
 	<atom:link href="https://jogjalanjalan.com/category/tourism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 29 Apr 2023 04:29:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 May 2023 11:08:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,12 +22,30 @@
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
-	<title>インドネシア観光  |  ジョグジャランジャラン</title>
+	<title>観光 &#8211; ジョグジャランジャラン</title>
 	<link>https://jogjalanjalan.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタ 行き方 &#124; ジャカルタ⇔ジョグジャ</title>
+		<link>https://jogjalanjalan.com/from-jakarta-to-jogja/</link>
+					<comments>https://jogjalanjalan.com/from-jakarta-to-jogja/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2023 10:47:12 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=705</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/transportation-fromjakarta-to-jogja-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、魅力的な観光都市・古都ジョグジャカルタ(Yogyakarta・jogja)への行き方を首都ジャカルタからのルートでご紹介いたします。ジョグジャカルタには、主に、飛行機、鉄道、高速バスで行くことができます。 行 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/from-jakarta-to-jogja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャ マリオボロ通り徹底攻略ガイド</title>
 		<link>https://jogjalanjalan.com/malioboro-perfect-guide/</link>
 					<comments>https://jogjalanjalan.com/malioboro-perfect-guide/#respond</comments>
@@ -36,9 +54,10 @@
 		<pubDate>Sat, 29 Apr 2023 04:28:59 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=673</guid>
 
-					<description><![CDATA[本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/malioboro-guide-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/malioboro-perfect-guide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -56,7 +75,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=571</guid>
 
-					<description><![CDATA[インドネシアのバティック(batik)は、世界的に有名な伝統的な布地で、手作業によって染色され、美しい模様が描かれています。この布地は、インドネシアにおける重要な文化遺産の一つであり、世界中で高い評価を得ています。バティ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/try-make-batik-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアのバティック(batik)は、世界的に有名な伝統的な布地で、手作業によって染色され、美しい模様が描かれています。この布地は、インドネシアにおける重要な文化遺産の一つであり、世界中で高い評価を得ています。バティ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-try-batik-90min/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -74,7 +93,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=550</guid>
 
-					<description><![CDATA[Yogyakarta(ジョグジャカルタ)は、インドネシア芸術大学があったり、バティックやワヤンなどの昔から受け継がれている伝統的な芸術文化があったり、実はインドネシア国内では有数の芸術都市の一つです。 今回の記事では、そ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/jogja-national-museum-1024x536.png" class="webfeedsFeaturedVisual" /></p>Yogyakarta(ジョグジャカルタ)は、インドネシア芸術大学があったり、バティックやワヤンなどの昔から受け継がれている伝統的な芸術文化があったり、実はインドネシア国内では有数の芸術都市の一つです。 今回の記事では、そ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-national-museum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -92,7 +111,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=506</guid>
 
-					<description><![CDATA[たまーに、このような質問を受けることがあって、そんな僕がちょっと変わった観光スポットとして、強くおすすめしている観光スポットがあります！ それは、な、な、なんと、ジョグジャカルタの観光の中心地マリオボロ通りにニューハーフ [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/raminten-cabatet-show-1024x536.png" class="webfeedsFeaturedVisual" /></p>たまーに、このような質問を受けることがあって、そんな僕がちょっと変わった観光スポットとして、強くおすすめしている観光スポットがあります！ それは、な、な、なんと、ジョグジャカルタの観光の中心地マリオボロ通りにニューハーフ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/raminten-cabaret-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -110,7 +129,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=487</guid>
 
-					<description><![CDATA[ジョグジャカルタ近郊の最大の観光スポットと言えば、ボロブドゥール(Borobudur)ですよね！ 実はこのBorobudurは、ジョグジャカルタ(Yogyakarta)県にあるのでなく、中部ジャワ(Jawa Tengah [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/how-to-go-to-borobudur-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ近郊の最大の観光スポットと言えば、ボロブドゥール(Borobudur)ですよね！ 実はこのBorobudurは、ジョグジャカルタ(Yogyakarta)県にあるのでなく、中部ジャワ(Jawa Tengah [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/access-to-borobudur/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -129,7 +148,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=455</guid>
 
-					<description><![CDATA[ジョグジャカルタで生活する上で、多くの方が直面する問題。それが、、”日本食が恋しい！！” 今回の記事では、ジョグジャカルタ在住の日本人のそんな悩みを解決してくれる日本人経営の唯一の日本食レストランを紹介いたします。 目次 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/02/wagokoro_10off-1024x512.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタで生活する上で、多くの方が直面する問題。それが、、”日本食が恋しい！！” 今回の記事では、ジョグジャカルタ在住の日本人のそんな悩みを解決してくれる日本人経営の唯一の日本食レストランを紹介いたします。 和心 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/wagokoro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -147,7 +166,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=362</guid>
 
-					<description><![CDATA[ジョグジャカルタ在住者がおすすめするジョグジャのお土産ベスト10を紹介！！ 実際にジョグジャに住んでいる私がジャカルタや日本に帰る際にお土産で買うものなどを含め勝手にランキング形式で紹介したいと思います！ 目次 10位  [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/02/souvenior-jogja-best10-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ在住者がおすすめするジョグジャのお土産ベスト10を紹介！！ 実際にジョグジャに住んでいる私がジャカルタや日本に帰る際にお土産で買うものなどを含め勝手にランキング形式で紹介したいと思います！ 10位 Gul [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/souvenior-jogja-best5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -165,7 +184,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=255</guid>
 
-					<description><![CDATA[ジョグジャカルタ在住者おすすめ! 絶景海岸 Timang ビーチ！！ゴンドラ旅！！ 見てください！この夕暮れ時の絶景！ これ、ジョグジャカルタなんです！こんな大自然を満喫できるジョグジャカルタ郊外のおすすめ観光スポットを [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja-pantai-timang-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ在住者おすすめ! 絶景海岸 Timang ビーチ！！ゴンドラ旅！！ 見てください！この夕暮れ時の絶景！ これ、ジョグジャカルタなんです！こんな大自然を満喫できるジョグジャカルタ郊外のおすすめ観光スポットを [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-pantai-timang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -183,7 +202,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=227</guid>
 
-					<description><![CDATA[在住者おすすめ！ジョグジャカルタおすすめホテル5選 ジョグジャカルタには、遺跡系スポット、山系アクティビティスポット、海系アクティビティスポット、などなど、見どころが盛りだくさんですが、それぞれのスポットは比較的に離れて [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja-hotel-best5-1024x536.png" class="webfeedsFeaturedVisual" /></p>在住者おすすめ！ジョグジャカルタおすすめホテル5選 ジョグジャカルタには、遺跡系スポット、山系アクティビティスポット、海系アクティビティスポット、などなど、見どころが盛りだくさんですが、それぞれのスポットは比較的に離れて [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-hotel-best5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -201,7 +220,7 @@
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=191</guid>
 
-					<description><![CDATA[ジョグジャで体験できるムラピ火山でのジープツアー 山！！川！！自然！！資料館！！歴史！！が盛りだくさんのツアーです。 目次 ムラピ火山JEEPツアーの内容料金ツアーの申し込み方法大手サイト経由での申込みTiket.com [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/merapi_jeep_tour-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャで体験できるムラピ火山でのジープツアー 山！！川！！自然！！資料館！！歴史！！が盛りだくさんのツアーです。 ムラピ火山JEEPツアーの内容 川を利用したド派手な水しぶきアクティビティ ムラピ火山をバックにして高 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/merapi-jeep-lava-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -217,9 +236,10 @@
 		<pubDate>Tue, 17 Jan 2023 22:38:17 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=131</guid>
 
-					<description><![CDATA[ジョグジャカルタ観光案内所が作成した日本語の観光マップを大公開！ 先日、観光協会にいる友人が2020年3月に作成した日本語のマップがあるよ！とのことで、見せてもらい、とてもいいマップだったので、ぜひ拡散したく、こちらの記 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_tourism_map-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ観光案内所が作成した日本語の観光マップを大公開！ 先日、観光協会にいる友人が2020年3月に作成した日本語のマップがあるよ！とのことで、見せてもらい、とてもいいマップだったので、ぜひ拡散したく、こちらの記 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/jogja-tourism-map/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -235,9 +255,13 @@
 		<pubDate>Sun, 15 Jan 2023 08:14:33 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
+		<category><![CDATA[ボロブドゥール]]></category>
+		<category><![CDATA[ランタン祭り]]></category>
+		<category><![CDATA[世界遺産]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=52</guid>
 
-					<description><![CDATA[世界三大仏教遺跡のランタン祭り！！ 2022年、コロナにより２年間開催されていなかったボロブドゥールでのランタン祭りが3年ぶりの開催ということで、参加してきました。 ランタン祭りとしては、タイのコムローイ祭りが有名かと思 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/borobudur-waisak-1024x536.png" class="webfeedsFeaturedVisual" /></p>世界三大仏教遺跡のランタン祭り！！ 2022年、コロナにより２年間開催されていなかったボロブドゥールでのランタン祭りが3年ぶりの開催ということで、参加してきました。 ランタン祭りとしては、タイのコムローイ祭りが有名かと思 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/borobudur-waisak/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -254,9 +278,11 @@
 				<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[現地生活]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[レストラン]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=26</guid>
 
-					<description><![CDATA[ジョグジャカルタ在住者が勧めるジョグジャのおすすめレストラン5選！ベスト5 本記事では、ジョグジャカルタ在住の著者が本気でおすすめするレストランをローカルのインドネシア料理から洋食、和食まで含めてベスト５を紹介いたします [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_restaurant_best5-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ在住者が勧めるジョグジャのおすすめレストラン5選！ベスト5 本記事では、ジョグジャカルタ在住の著者が本気でおすすめするレストランをローカルのインドネシア料理から洋食、和食まで含めてベスト５を紹介いたします [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/restaurant-top5-in-jogja/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

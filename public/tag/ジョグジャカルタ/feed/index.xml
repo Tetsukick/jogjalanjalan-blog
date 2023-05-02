@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ジョグジャカルタ &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E3%82%B8%E3%83%A7%E3%82%B0%E3%82%B8%E3%83%A3%E3%82%AB%E3%83%AB%E3%82%BF/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Mon, 01 May 2023 11:08:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>ジョグジャカルタ &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>世界三大仏教遺跡ボロブドゥールのランタン祭りに参加してみた！</title>
+		<link>https://jogjalanjalan.com/borobudur-waisak/</link>
+					<comments>https://jogjalanjalan.com/borobudur-waisak/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2023 08:14:33 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
+		<category><![CDATA[ボロブドゥール]]></category>
+		<category><![CDATA[ランタン祭り]]></category>
+		<category><![CDATA[世界遺産]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=52</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/borobudur-waisak-1024x536.png" class="webfeedsFeaturedVisual" /></p>世界三大仏教遺跡のランタン祭り！！ 2022年、コロナにより２年間開催されていなかったボロブドゥールでのランタン祭りが3年ぶりの開催ということで、参加してきました。 ランタン祭りとしては、タイのコムローイ祭りが有名かと思 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/borobudur-waisak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ジョグジャカルタのおすすめレストラン5選！在住者のおすすめ！</title>
+		<link>https://jogjalanjalan.com/restaurant-top5-in-jogja/</link>
+					<comments>https://jogjalanjalan.com/restaurant-top5-in-jogja/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 14 Jan 2023 10:37:27 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[現地生活]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[レストラン]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=26</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_restaurant_best5-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ在住者が勧めるジョグジャのおすすめレストラン5選！ベスト5 本記事では、ジョグジャカルタ在住の著者が本気でおすすめするレストランをローカルのインドネシア料理から洋食、和食まで含めてベスト５を紹介いたします [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/restaurant-top5-in-jogja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
