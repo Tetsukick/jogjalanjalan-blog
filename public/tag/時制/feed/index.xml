@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>時制 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E6%99%82%E5%88%B6/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Fri, 05 May 2023 17:21:24 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>時制 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>【インドネシア語】時制 &#8211; 未来形・過去形・現在進行形 &#8211;</title>
+		<link>https://jogjalanjalan.com/time-tense/</link>
+					<comments>https://jogjalanjalan.com/time-tense/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 17 Jan 2023 17:39:40 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[文法]]></category>
+		<category><![CDATA[時制]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=125</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/time_state-1024x536.png" class="webfeedsFeaturedVisual" /></p>４つの時制 主に以下の4つの時制があります。 過去形 インドネシア語の過去形 (past tense)は、過去に起こったことを表します。インドネシア語の過去形を表すために、「Sudah」「Telah」という助動詞を使用し [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/time-tense/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
