@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='2023年5月4日 6:45 PM' -->
+<!-- generated-on='2023年5月5日 5:22 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/time-tense/</loc>
-		<lastmod>2023-01-17T17:50:11+00:00</lastmod>
+		<lastmod>2023-05-05T17:21:24+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -14,13 +14,13 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/standard-grammer-sv-verb/</loc>
-		<lastmod>2023-05-02T15:39:33+00:00</lastmod>
+		<lastmod>2023-05-05T16:52:45+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/standard-grammer-svc/</loc>
-		<lastmod>2023-05-01T12:40:06+00:00</lastmod>
+		<lastmod>2023-05-05T16:47:10+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -36,4 +36,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 05ae34151b4e85df74b01a46210d10f6; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: fe9118d00320df065fb205f6172f08c8; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
