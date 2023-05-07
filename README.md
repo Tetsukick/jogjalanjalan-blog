@@ -1,6 +1,7 @@
 # jogjalanjalan-blog
 This is the blog app repository.  
 https://jogjalanjalan.com/
+![jogjalanjalan top image](https://jogjalanjalan.com/wp-content/uploads/2023/05/jogjalanjalan-key-visual.png)
 
 ## setup
 1. run below command
