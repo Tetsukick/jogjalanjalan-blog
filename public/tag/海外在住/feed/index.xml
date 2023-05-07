@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>海外在住 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E6%B5%B7%E5%A4%96%E5%9C%A8%E4%BD%8F/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Sun, 07 May 2023 04:22:06 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>海外在住 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VPN比較：2023年5月最新 &#124; 海外在住者おすすめサービス7選</title>
+		<link>https://jogjalanjalan.com/vpn-comparison/</link>
+					<comments>https://jogjalanjalan.com/vpn-comparison/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 07 May 2023 04:21:36 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[比較]]></category>
+		<category><![CDATA[海外在住]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=788</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/vpn-comparison-1024x536.png" class="webfeedsFeaturedVisual" /></p>VPNを使うことで、日本のサービスや動画配信サイト等を安心して手軽に利用することができます。 やっぱり日本の動画サービスを観たい！海外在住の方へ2023年5月最新版のVPNサービスを比較しました！ そんなあなたに結論！と [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/vpn-comparison/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
