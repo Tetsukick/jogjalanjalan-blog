@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='2023年5月5日 6:48 PM' -->
+<!-- generated-on='2023年5月7日 4:24 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/vpn-comparison/</loc>
+		<lastmod>2023-05-07T04:22:06+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/indonesia-scam-jne-whatsapp/</loc>
 		<lastmod>2023-05-05T18:46:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 8a7befacd785422159e5492d79872c94; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 97d4c69d00fdb8a33fc4f32c51365828; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
