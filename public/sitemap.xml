@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='2023年5月13日 10:25 AM' -->
+<!-- generated-on='2023年5月14日 7:56 PM' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-misc.xml</loc>
-		<lastmod>2023-05-13T10:24:54+00:00</lastmod>
+		<lastmod>2023-05-14T19:50:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-1.xml</loc>
-		<lastmod>2023-05-13T10:24:54+00:00</lastmod>
+		<lastmod>2023-05-14T19:50:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-05.xml</loc>
-		<lastmod>2023-05-13T07:14:15+00:00</lastmod>
+		<lastmod>2023-05-14T19:50:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-04.xml</loc>
@@ -40,4 +40,4 @@
 		<loc>https://jogjalanjalan.com/sitemap-pt-page-p1-2023-01.xml</loc>
 		<lastmod>2023-02-21T16:38:46+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 2d2ca15d1277e6837fd40e398232388e; Queries for sitemap: 9; Total queries: 36; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: b0d610bacc81067cb64362f4dd7425f1; Queries for sitemap: 9; Total queries: 36; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->

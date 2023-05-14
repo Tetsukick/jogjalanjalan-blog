@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='2023年5月13日 10:25 AM' -->
+<!-- generated-on='2023年5月14日 7:56 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/from-jakarta-to-jogja/</loc>
 		<lastmod>2023-04-30T10:47:12+00:00</lastmod>
@@ -60,4 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 200fd2bef963e091e1d36ad6aba37cc4; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 651846240be1ac63cd156b9bf6cb1a44; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
