@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.10' -->
-<!-- generated-on='2023年5月18日 9:01 AM' -->
+<!-- generated-on='2023年5月18日 5:04 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/wagokoro/</loc>
 		<lastmod>2023-02-26T15:01:24+00:00</lastmod>
@@ -8,38 +8,38 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/interrogative/</loc>
-		<lastmod>2023-02-21T18:02:50+00:00</lastmod>
+		<lastmod>2023-05-18T17:03:50+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/best-buy-from-japan/</loc>
-		<lastmod>2023-05-01T08:07:53+00:00</lastmod>
+		<lastmod>2023-05-18T16:59:37+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/recommended-indonesian-learning-books/</loc>
-		<lastmod>2023-02-12T09:21:58+00:00</lastmod>
+		<lastmod>2023-05-18T16:55:57+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/how-to-buy-alcohol-in-indonesia/</loc>
-		<lastmod>2023-02-12T05:19:48+00:00</lastmod>
+		<lastmod>2023-05-18T16:47:06+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/souvenior-jogja-best5/</loc>
-		<lastmod>2023-02-11T20:25:24+00:00</lastmod>
+		<lastmod>2023-05-18T16:50:29+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/grammer-normal-verb/</loc>
-		<lastmod>2023-02-08T17:20:28+00:00</lastmod>
+		<lastmod>2023-05-18T16:53:59+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: bce31ed89d58e326ee80da1df1a5b1ab; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: eb80c6cd7d30700e01816646ac885467; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->

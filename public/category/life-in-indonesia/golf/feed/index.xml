@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ゴルフ &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/category/life-in-indonesia/golf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Thu, 18 May 2023 17:04:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>ゴルフ &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>インドネシアのゴルフで使える便利アプリ5選 &#124; 在住者ブログ</title>
+		<link>https://jogjalanjalan.com/indonesia-golf-app/</link>
+					<comments>https://jogjalanjalan.com/indonesia-golf-app/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 17:04:00 +0000</pubDate>
+				<category><![CDATA[ゴルフ]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[アプリ]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=953</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/best5-golf-app-in-indonesia-1024x536.png" class="webfeedsFeaturedVisual" /></p>ゴルフ場予約 GoGolf GoGolf（ゴーゴルフ）は、ゴルフ愛好家やプレーヤーに特化したオンラインサービスです。この革新的なプラットフォームは、ゴルフの予約やコース情報の検索、ラウンドの管理をスムーズに行うための包括 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/indonesia-golf-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
