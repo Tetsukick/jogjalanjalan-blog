@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 20 May 2023 07:33:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 May 2023 20:24:18 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア原産 スーパーフード『クナリナッツ』&#124; 効果・入手法</title>
+		<link>https://jogjalanjalan.com/kenari-nuts/</link>
+					<comments>https://jogjalanjalan.com/kenari-nuts/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 20 May 2023 20:19:32 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[お土産]]></category>
+		<category><![CDATA[スーパーフード]]></category>
+		<category><![CDATA[健康]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=995</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/kenari-nuts-1024x536.png" class="webfeedsFeaturedVisual" /></p>クナリナッツ (Kenari Nuts) とは？ クナリナッツ（Canarium Amboinense Hoch）は、インドネシア東部原産です。豊富なスパイスの産地の火山性離島の肥沃な土壌で育った野生のクナリの木から採取 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/kenari-nuts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア語って簡単？効率的なインドネシア語のおすすめ勉強法</title>
-		<link>https://jogjalanjalan.com/%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e8%aa%9e%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%ef%bc%9f%e5%8a%b9%e7%8e%87%e7%9a%84%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2/</link>
-					<comments>https://jogjalanjalan.com/%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e8%aa%9e%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%ef%bc%9f%e5%8a%b9%e7%8e%87%e7%9a%84%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2/#respond</comments>
+		<link>https://jogjalanjalan.com/how-to-learn-indonesia/</link>
+					<comments>https://jogjalanjalan.com/how-to-learn-indonesia/#respond</comments>
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sat, 20 May 2023 07:33:03 +0000</pubDate>
@@ -43,7 +65,7 @@
 
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/how-to-learn-indonesian-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシア語について インドネシア語は、世界の言語の中で7番目に多く使われている言語です。インドネシア語話者の総数は、約3億人とされています。※参考記事 【2022年最新版】世界の言語ランキング（ネット人口含む）※上記 [&#8230;]]]></description>
 		
-					<wfw:commentRss>https://jogjalanjalan.com/%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e8%aa%9e%e3%81%a3%e3%81%a6%e7%b0%a1%e5%8d%98%ef%bc%9f%e5%8a%b9%e7%8e%87%e7%9a%84%e3%81%aa%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://jogjalanjalan.com/how-to-learn-indonesia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -307,24 +329,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/digital-indonesia-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>DIGITAL 2023: INDONESIA　概要 このレポートは、インドネシアにおけるデジタルマーケティングの現状と将来のトレンドを分析しています。インドネシアの人口が約2億8000万人を超え、インターネット利用者数 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/digital-indonesia-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ChatGPTを使って、日本語インドネシア語の例文作成・翻訳を自動化した話</title>
-		<link>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/</link>
-					<comments>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Mon, 24 Apr 2023 19:45:00 +0000</pubDate>
-				<category><![CDATA[インドネシア語]]></category>
-		<category><![CDATA[ビジネス]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=616</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/chatgpt-auto-translate-1024x536.png" class="webfeedsFeaturedVisual" /></p>2023年に入り、巷でかなり話題になっているのがAI技術のChatGPT関連の情報ですね。 今回は、ChatGPTを活用して、日本語とインドネシア語の例文作成作業・翻訳作業を自動化したので、その方法について詳しく紹介して [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/chatgpt-japanese-indonesian-translate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
