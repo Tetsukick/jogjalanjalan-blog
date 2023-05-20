@@ -12,13 +12,13 @@
 	<atom:link href="https://jogjalanjalan.com/category/life-in-indonesia/book/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Thu, 18 May 2023 08:49:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 May 2023 09:00:49 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
@@ -39,9 +39,10 @@
 		<category><![CDATA[インドネシア]]></category>
 		<category><![CDATA[戦争]]></category>
 		<category><![CDATA[歴史]]></category>
+		<category><![CDATA[読書記録]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=936</guid>
 
-					<description><![CDATA[第二次世界大戦で、インドネシアにいた日本兵。その中でインドネシアに残留し、インドネシア独立戦争に参加した日本兵903名。生存者324名。45名が帰国。279名がインドネシアで生活をした。その方々の生きた証を残した書籍『帰 [&#8230;]]]></description>
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/book-japanese-soldier-in-indonesia-1024x536.png" class="webfeedsFeaturedVisual" /></p>第二次世界大戦で、インドネシアにいた日本兵。その中でインドネシアに残留し、インドネシア独立戦争に参加した日本兵903名。生存者324名。45名が帰国。279名がインドネシアで生活をした。その方々の生きた証を残した書籍『帰 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/book-japanese-soldier-in-indonesia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

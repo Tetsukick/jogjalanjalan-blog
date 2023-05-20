@@ -12,13 +12,13 @@
 	<atom:link href="https://jogjalanjalan.com/tag/%E5%8D%98%E8%AA%9E/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 13 May 2023 10:24:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 May 2023 16:53:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア語文法講座 &#124; 動詞 -基語動詞-</title>
+		<link>https://jogjalanjalan.com/grammer-normal-verb/</link>
+					<comments>https://jogjalanjalan.com/grammer-normal-verb/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2023 17:20:02 +0000</pubDate>
+				<category><![CDATA[インドネシア語]]></category>
+		<category><![CDATA[単語]]></category>
+		<category><![CDATA[文法]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=356</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/02/verb-normal-1024x536.png" class="webfeedsFeaturedVisual" /></p>【インドネシア語 文法講座】動詞 -基語動詞- 動詞の種類(基語動詞・ber動詞・me動詞) 自動詞とは、自分「自ら」のみで完結する動作などを表します。他動詞とは、「他の」対象に対して影響が及ぶ動作などを表します。 基語 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/grammer-normal-verb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>【インドネシア語】最強単語アプリ『BINTANGO』おすすめ機能</title>
 		<link>https://jogjalanjalan.com/bintango-guidance/</link>
 					<comments>https://jogjalanjalan.com/bintango-guidance/#respond</comments>
