@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>健康 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E5%81%A5%E5%BA%B7/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Sat, 20 May 2023 20:24:18 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>健康 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>インドネシア原産 スーパーフード『クナリナッツ』&#124; 効果・入手法</title>
+		<link>https://jogjalanjalan.com/kenari-nuts/</link>
+					<comments>https://jogjalanjalan.com/kenari-nuts/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 20 May 2023 20:19:32 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[お土産]]></category>
+		<category><![CDATA[スーパーフード]]></category>
+		<category><![CDATA[健康]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=995</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/kenari-nuts-1024x536.png" class="webfeedsFeaturedVisual" /></p>クナリナッツ (Kenari Nuts) とは？ クナリナッツ（Canarium Amboinense Hoch）は、インドネシア東部原産です。豊富なスパイスの産地の火山性離島の肥沃な土壌で育った野生のクナリの木から採取 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/kenari-nuts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
