@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Thu, 18 May 2023 16:50:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 May 2023 17:02:44 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>バリ観光 Hatten ワイン ぶどう農園見学 ブドウ食べ放題</title>
+		<link>https://jogjalanjalan.com/hatten-wine-adventure/</link>
+					<comments>https://jogjalanjalan.com/hatten-wine-adventure/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 27 May 2023 17:02:42 +0000</pubDate>
+				<category><![CDATA[バリ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[お土産]]></category>
+		<category><![CDATA[お酒]]></category>
+		<category><![CDATA[バリ]]></category>
+		<category><![CDATA[ワイン]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1040</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/bali-hatten-wine-vineyard-1024x536.png" class="webfeedsFeaturedVisual" /></p>Hatten Wine とは? バリ産Hatten Wineは、インドネシアのバリ島で生産される特別なワインです。バリ島の独自の気候と風土が生み出す特別なワインであり、その個性的な味わいと魅力で多くの人々を魅了しています [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/hatten-wine-adventure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>銀細工 フィリグリー &#124; ジョグジャカルタの伝統工芸</title>
 		<link>https://jogjalanjalan.com/filigree-silverart/</link>
 					<comments>https://jogjalanjalan.com/filigree-silverart/#respond</comments>
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Thu, 11 May 2023 15:08:02 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[海外生活]]></category>
 		<category><![CDATA[観光]]></category>
 		<category><![CDATA[filigree]]></category>
@@ -57,7 +80,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 30 Apr 2023 10:47:12 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=705</guid>
 
@@ -75,7 +98,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sat, 29 Apr 2023 04:28:59 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<category><![CDATA[recommended]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=673</guid>
@@ -94,7 +117,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 23 Apr 2023 05:11:45 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=571</guid>
 
@@ -112,7 +135,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 09 Apr 2023 06:45:47 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=550</guid>
 
@@ -130,7 +153,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sat, 01 Apr 2023 18:37:20 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=506</guid>
 
@@ -148,7 +171,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 10:48:43 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=487</guid>
 
@@ -166,7 +189,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 11:54:04 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[海外生活]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=455</guid>
@@ -185,7 +208,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Fri, 10 Feb 2023 21:37:47 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=362</guid>
 
@@ -203,7 +226,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Wed, 25 Jan 2023 15:12:53 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=255</guid>
 
@@ -221,9 +244,10 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Mon, 23 Jan 2023 15:47:20 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[ホテル]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=227</guid>
 
@@ -241,7 +265,7 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Wed, 18 Jan 2023 23:10:12 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=191</guid>
 
@@ -259,10 +283,11 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Tue, 17 Jan 2023 22:38:17 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<category><![CDATA[recommended]]></category>
 		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=131</guid>
 
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_tourism_map-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ観光案内所が作成した日本語の観光マップを大公開！ 先日、観光協会にいる友人が2020年3月に作成した日本語のマップがあるよ！とのことで、見せてもらい、とてもいいマップだったので、ぜひ拡散したく、こちらの記 [&#8230;]]]></description>
@@ -279,9 +304,10 @@
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2023 08:14:33 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
 		<category><![CDATA[recommended]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
 		<category><![CDATA[ボロブドゥール]]></category>
 		<category><![CDATA[ランタン祭り]]></category>
 		<category><![CDATA[世界遺産]]></category>
@@ -290,27 +316,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/borobudur-waisak-1024x536.png" class="webfeedsFeaturedVisual" /></p>世界三大仏教遺跡のランタン祭り！！ 2022年、コロナにより２年間開催されていなかったボロブドゥールでのランタン祭りが3年ぶりの開催ということで、参加してきました。 ランタン祭りとしては、タイのコムローイ祭りが有名かと思 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/borobudur-waisak/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタのおすすめレストラン5選！在住者のおすすめ！</title>
-		<link>https://jogjalanjalan.com/restaurant-top5-in-jogja/</link>
-					<comments>https://jogjalanjalan.com/restaurant-top5-in-jogja/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 14 Jan 2023 10:37:27 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[海外生活]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[食べ物]]></category>
-		<category><![CDATA[レストラン]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=26</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_restaurant_best5-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ在住者が勧めるジョグジャのおすすめレストラン5選！ベスト5 本記事では、ジョグジャカルタ在住の著者が本気でおすすめするレストランをローカルのインドネシア料理から洋食、和食まで含めてベスト５を紹介いたします [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/restaurant-top5-in-jogja/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
