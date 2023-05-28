@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/tag/%E3%81%8A%E5%9C%9F%E7%94%A3/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 27 May 2023 09:03:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 May 2023 17:02:44 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>バリ観光 Hatten ワイン ぶどう農園見学 ブドウ食べ放題</title>
+		<link>https://jogjalanjalan.com/hatten-wine-adventure/</link>
+					<comments>https://jogjalanjalan.com/hatten-wine-adventure/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 27 May 2023 17:02:42 +0000</pubDate>
+				<category><![CDATA[バリ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[お土産]]></category>
+		<category><![CDATA[お酒]]></category>
+		<category><![CDATA[バリ]]></category>
+		<category><![CDATA[ワイン]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1040</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/bali-hatten-wine-vineyard-1024x536.png" class="webfeedsFeaturedVisual" /></p>Hatten Wine とは? バリ産Hatten Wineは、インドネシアのバリ島で生産される特別なワインです。バリ島の独自の気候と風土が生み出す特別なワインであり、その個性的な味わいと魅力で多くの人々を魅了しています [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/hatten-wine-adventure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>お土産におすすめなインドネシアコーヒー &#124; kapal api</title>
 		<link>https://jogjalanjalan.com/coffee-kapal-api-easy-drip/</link>
 					<comments>https://jogjalanjalan.com/coffee-kapal-api-easy-drip/#respond</comments>
