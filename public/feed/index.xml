@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 27 May 2023 17:02:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Jun 2023 19:38:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア初プロ野球チーム『アジア ゴールデン ラークス』とは</title>
+		<link>https://jogjalanjalan.com/asia-golden-larks/</link>
+					<comments>https://jogjalanjalan.com/asia-golden-larks/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 07 Jun 2023 19:38:53 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[野球]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1083</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/asia-golden-larks-1024x536.png" class="webfeedsFeaturedVisual" /></p>アジア ゴールデン ラークス とは？ 代表を務める福原佑二氏、香月良仁氏（取締役副社長・元ロッテ投手）、山下翔一氏（株式会社ペライチ取締役会長）、インドネシアやスリランカで約20年間、ナショナルチームや州代表チームの監督 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/asia-golden-larks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>バリ観光 Hatten ワイン ぶどう農園見学 ブドウ食べ放題</title>
 		<link>https://jogjalanjalan.com/hatten-wine-adventure/</link>
 					<comments>https://jogjalanjalan.com/hatten-wine-adventure/#respond</comments>
@@ -321,25 +340,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/transportation-fromjakarta-to-jogja-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、魅力的な観光都市・古都ジョグジャカルタ(Yogyakarta・jogja)への行き方を首都ジャカルタからのルートでご紹介いたします。ジョグジャカルタには、主に、飛行機、鉄道、高速バスで行くことができます。 行 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/from-jakarta-to-jogja/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャ マリオボロ通り徹底攻略ガイド</title>
-		<link>https://jogjalanjalan.com/malioboro-perfect-guide/</link>
-					<comments>https://jogjalanjalan.com/malioboro-perfect-guide/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 29 Apr 2023 04:28:59 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[recommended]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=673</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/malioboro-guide-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/malioboro-perfect-guide/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

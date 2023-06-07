@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>野球 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E9%87%8E%E7%90%83/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Wed, 07 Jun 2023 19:38:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>野球 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>インドネシア初プロ野球チーム『アジア ゴールデン ラークス』とは</title>
+		<link>https://jogjalanjalan.com/asia-golden-larks/</link>
+					<comments>https://jogjalanjalan.com/asia-golden-larks/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 07 Jun 2023 19:38:53 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[野球]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1083</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/asia-golden-larks-1024x536.png" class="webfeedsFeaturedVisual" /></p>アジア ゴールデン ラークス とは？ 代表を務める福原佑二氏、香月良仁氏（取締役副社長・元ロッテ投手）、山下翔一氏（株式会社ペライチ取締役会長）、インドネシアやスリランカで約20年間、ナショナルチームや州代表チームの監督 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/asia-golden-larks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
