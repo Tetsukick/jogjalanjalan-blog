@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>果実酒 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E6%9E%9C%E5%AE%9F%E9%85%92/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Sat, 10 Jun 2023 08:56:40 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>果実酒 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>南国フルーツ『ドラゴンフルーツ』で果実酒 &#124; 作り方・味の感想</title>
+		<link>https://jogjalanjalan.com/dragon-fruits-sake/</link>
+					<comments>https://jogjalanjalan.com/dragon-fruits-sake/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 10 Jun 2023 08:56:38 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[インドネシア]]></category>
+		<category><![CDATA[果実酒]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1116</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/dragon-fruits-sake-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアの南国フルーツの旬な時期やおすすめのフルーツはこちらの記事でも詳しく紹介しています。あわせてご確認ください。 作り方・レシピ 材料・用意するもの ドラゴンフルーツ 500g 氷砂糖 ※インドネシア語で『Gul [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/dragon-fruits-sake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
