@@ -660,3 +660,39 @@ div.yyi-rinker-contents .yyi-rinker-attention.attention_desing_circle .yyi-rinke
     display: none;
 }
 
+div.yyi-rinker-contents .yyi-rinker-attention.attention_desing_right_ribbon {
+    width: 89px;
+    height: 91px;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    left: auto;
+    overflow: hidden;
+}
+
+div.yyi-rinker-contents .yyi-rinker-attention.attention_desing_right_ribbon span {
+    display: inline-block;
+    width: 146px;
+    position: absolute;
+    padding: 4px 0;
+    left: -13px;
+    top: 12px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 24px;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+div.yyi-rinker-contents .yyi-rinker-attention.attention_desing_right_ribbon {
+    background: none;
+}
+.yyi-rinker-attention.attention_desing_right_ribbon .yyi-rinker-attention-after,
+.yyi-rinker-attention.attention_desing_right_ribbon .yyi-rinker-attention-before{
+    display:none;
+}
+
+div.yyi-rinker-use-right_ribbon div.yyi-rinker-title {
+    margin-right: 2rem;
+}
