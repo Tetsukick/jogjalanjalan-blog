@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.11' -->
-<!-- generated-on='2023年6月11日 9:24 AM' -->
+<!-- generated-on='2023年6月24日 8:28 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/surfshark-vpn-review/</loc>
+		<lastmod>2023-06-24T08:27:16+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/kujirabito/</loc>
 		<lastmod>2023-06-11T09:23:30+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -24,4 +30,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 4faaeab6d57346e2a1b49946c6973354; Queries for sitemap: 2; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 4a0595b7d55e80cf23837a904a4fe235; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
