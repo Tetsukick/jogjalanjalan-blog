@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/jakarta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 25 Jun 2023 18:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Jun 2023 10:47:47 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>インドネシアの古都 ジョグジャカルタの歴史 &#124; 独立・首都移転他</title>
+		<link>https://jogjalanjalan.com/jogja-hisotry/</link>
+					<comments>https://jogjalanjalan.com/jogja-hisotry/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 10:47:45 +0000</pubDate>
+				<category><![CDATA[ジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[歴史]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1235</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/jogja-history-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ特別州 ジョグジャカルタ特別州（Special Region of Yogyakarta）、通称DIY(Daerah Istimewa Yogyakarta)は、インドネシアの州レベルの自治州のひとつであ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/jogja-hisotry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
