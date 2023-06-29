@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/yogyakarta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 25 Jun 2023 10:58:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Jun 2023 09:43:25 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>世界遺産 ボロブドゥール遺跡の歴史</title>
+		<link>https://jogjalanjalan.com/borobudur-history/</link>
+					<comments>https://jogjalanjalan.com/borobudur-history/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2023 09:43:24 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ボロブドゥール]]></category>
+		<category><![CDATA[世界遺産]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1250</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/borobudur-history-1024x536.png" class="webfeedsFeaturedVisual" /></p>世界遺産 ボロブドゥール遺跡とは？ ボロブドゥール遺跡は、インドネシア中部ジャワ島に位置する世界的に有名な仏教寺院であり、1991年には世界遺産にも登録されています。この遺跡は、9世紀から10世紀にかけてシャイレンドラ王 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/borobudur-history/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャマラソン2023 参加してみた! &#124; 体験レポート</title>
 		<link>https://jogjalanjalan.com/jogja-marathon-2023/</link>
 					<comments>https://jogjalanjalan.com/jogja-marathon-2023/#respond</comments>
@@ -192,6 +212,8 @@
 		<pubDate>Wed, 22 Mar 2023 10:48:43 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ボロブドゥール]]></category>
+		<category><![CDATA[世界遺産]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=487</guid>
 
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/03/how-to-go-to-borobudur-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ近郊の最大の観光スポットと言えば、ボロブドゥール(Borobudur)ですよね！ 実はこのBorobudurは、ジョグジャカルタ(Yogyakarta)県にあるのでなく、中部ジャワ(Jawa Tengah [&#8230;]]]></description>
@@ -291,27 +313,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/merapi_jeep_tour-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャで体験できるムラピ火山でのジープツアー 山！！川！！自然！！資料館！！歴史！！が盛りだくさんのツアーです。 ムラピ火山JEEPツアーの内容 料金 料金は基本的にJEEP一台ごとの料金になります。JEEP次第です [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/merapi-jeep-lava-tour/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>知らないと損する!最新版 ジョグジャカルタ 観光マップ</title>
-		<link>https://jogjalanjalan.com/jogja-tourism-map/</link>
-					<comments>https://jogjalanjalan.com/jogja-tourism-map/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Tue, 17 Jan 2023 22:38:17 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[recommended]]></category>
-		<category><![CDATA[インドネシア]]></category>
-		<category><![CDATA[ジョグジャカルタ]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=131</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/01/jogja_tourism_map-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタ観光案内所が作成した日本語の観光マップを大公開！ 先日、観光協会にいる友人が2020年3月に作成した日本語のマップがあるよ！とのことで、見せてもらい、とてもいいマップだったので、ぜひ拡散したく、こちらの記 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/jogja-tourism-map/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
