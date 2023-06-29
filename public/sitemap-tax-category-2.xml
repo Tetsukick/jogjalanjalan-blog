@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.11' -->
-<!-- generated-on='2023年6月29日 9:44 AM' -->
+<!-- generated-on='2023年6月29日 10:07 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/category/bahasa-indonesia/bahasa-indonesia-grammer/</loc>
 		<changefreq>daily</changefreq>
@@ -20,4 +20,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
-</urlset><!-- Request ID: 689e9a82c4875c1bedbc96daa3b7e6fc; Queries for sitemap: 5; Total queries: 31; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 08ee3865cbf094e08d7adf4d85110069; Queries for sitemap: 5; Total queries: 31; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
