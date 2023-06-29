@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.11' -->
-<!-- generated-on='2023年6月27日 5:01 PM' -->
+<!-- generated-on='2023年6月29日 9:44 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/sponsor-wanted/</loc>
 		<lastmod>2023-06-27T16:22:07+00:00</lastmod>
@@ -18,4 +18,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: d269b8ef691d3e177ec6a7f68635e56b; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 377c56d44c9d9f05bef097ee91d82772; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
