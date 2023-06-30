@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>プランバナン &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E3%83%97%E3%83%A9%E3%83%B3%E3%83%90%E3%83%8A%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Thu, 29 Jun 2023 10:46:41 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>プランバナン &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ジョグジャマラソン2023 参加してみた! &#124; 体験レポート</title>
+		<link>https://jogjalanjalan.com/jogja-marathon-2023/</link>
+					<comments>https://jogjalanjalan.com/jogja-marathon-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 25 Jun 2023 18:00:00 +0000</pubDate>
+				<category><![CDATA[インドネシアイベント]]></category>
+		<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[イベント]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[プランバナン]]></category>
+		<category><![CDATA[世界遺産]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1215</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/jogja-marathon-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャマラソン(JOGJA MARATHON)とは？ Mandiri Jogja Marathon(マンディリ・ジョグジャ・マラソン)は、2017年にジョグジャカルタで初めて開催された、マンディリ銀行による毎年恒例の [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/jogja-marathon-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>プランバナン ジャズ フェスティバル 2023 出演者・参加方法</title>
+		<link>https://jogjalanjalan.com/prambananjazz-2023/</link>
+					<comments>https://jogjalanjalan.com/prambananjazz-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 24 Jun 2023 18:09:28 +0000</pubDate>
+				<category><![CDATA[インドネシアイベント]]></category>
+		<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[イベント]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[プランバナン]]></category>
+		<category><![CDATA[世界遺産]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1165</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/prambananjazz-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>プランバナン ジャズ フェスティバル (Prambanan Jazz Festival) とは? プランバナン・ジャズ・フェスティバル（PJF）は、ジョグジャカルタのプランバナン寺院の中庭で毎年開催される国際的な音楽イベ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/prambananjazz-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
