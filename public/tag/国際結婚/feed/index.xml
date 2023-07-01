@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>国際結婚 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E5%9B%BD%E9%9A%9B%E7%B5%90%E5%A9%9A/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Sat, 01 Jul 2023 18:28:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>国際結婚 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>【2023年最新】インドネシア人と国際結婚する手続き・方法</title>
+		<link>https://jogjalanjalan.com/marriage-with-indonesian/</link>
+					<comments>https://jogjalanjalan.com/marriage-with-indonesian/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2023 18:28:15 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[国際結婚]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1308</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/marriage-with-indonesia-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事は、私自身がインドネシア人妻と入籍する際の事前に調べた情報をまとめています。2023年7月時点では、まだ入籍していない状態の情報であることをご了承ください。※実際に入籍が完了後、再度情報を更新する予定です。 インド [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/marriage-with-indonesian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
