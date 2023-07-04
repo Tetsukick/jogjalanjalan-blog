@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 02 Jul 2023 17:03:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 15:00:36 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア発 革靴メーカー『ジャランスリウァヤ』Jalan Sriwijaya</title>
+		<link>https://jogjalanjalan.com/jalan-sriwijaya/</link>
+					<comments>https://jogjalanjalan.com/jalan-sriwijaya/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 15:00:35 +0000</pubDate>
+				<category><![CDATA[バンドゥン観光]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[観光]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1140</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/Jalan-Sriwijaya-1024x536.png" class="webfeedsFeaturedVisual" /></p>Jalan Sriwijaya（ジャランスリウァヤ）とは 1969年にインドネシアのBandungの自宅で創業した老舗の靴メーカーです。インドネシア国内においては、Fortuna Shoesというブランドで展開されていま [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/jalan-sriwijaya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>世界遺産 プランバナン寺院とは? &#124; 現地での神話・イベント情報</title>
 		<link>https://jogjalanjalan.com/prambanan/</link>
 					<comments>https://jogjalanjalan.com/prambanan/#respond</comments>
@@ -303,29 +322,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/asia-golden-larks-1024x536.png" class="webfeedsFeaturedVisual" /></p>アジア ゴールデン ラークス とは？ 代表を務める福原佑二氏、香月良仁氏（取締役副社長・元ロッテ投手）、山下翔一氏（株式会社ペライチ取締役会長）、インドネシアやスリランカで約20年間、ナショナルチームや州代表チームの監督 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/asia-golden-larks/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>バリ観光 Hatten ワイン ぶどう農園見学 ブドウ食べ放題</title>
-		<link>https://jogjalanjalan.com/hatten-wine-adventure/</link>
-					<comments>https://jogjalanjalan.com/hatten-wine-adventure/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 27 May 2023 17:02:42 +0000</pubDate>
-				<category><![CDATA[バリ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[インドネシア]]></category>
-		<category><![CDATA[お土産]]></category>
-		<category><![CDATA[お酒]]></category>
-		<category><![CDATA[バリ]]></category>
-		<category><![CDATA[ワイン]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1040</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/bali-hatten-wine-vineyard-1024x536.png" class="webfeedsFeaturedVisual" /></p>Hatten Wine とは? バリ産Hatten Wineは、インドネシアのバリ島で生産される特別なワインです。バリ島の独自の気候と風土が生み出す特別なワインであり、その個性的な味わいと魅力で多くの人々を魅了しています [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/hatten-wine-adventure/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
