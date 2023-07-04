@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.11' -->
-<!-- generated-on='2023年7月2日 5:05 PM' -->
+<!-- generated-on='2023年7月4日 3:01 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://jogjalanjalan.com/category/tourism/%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/</loc>
+		<loc>https://jogjalanjalan.com/category/tourism/event/</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
@@ -36,6 +36,11 @@
 		<priority>0.7</priority>
 	</url>
 	<url>
+		<loc>https://jogjalanjalan.com/category/tourism/bandung/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/category/business/</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
@@ -45,9 +50,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
-	<url>
-		<loc>https://jogjalanjalan.com/category/bahasa-indonesia/bahasa-indonesia-word/</loc>
-		<changefreq>daily</changefreq>
-		<priority>0.7</priority>
-	</url>
-</urlset><!-- Request ID: 8cd998778e0fc3645a4203f15898293d; Queries for sitemap: 5; Total queries: 31; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: a04ef38ea51ae48fd0c9ef35fc36c938; Queries for sitemap: 5; Total queries: 31; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->

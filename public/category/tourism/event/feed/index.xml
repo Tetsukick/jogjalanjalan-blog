@@ -9,7 +9,7 @@
 
 <channel>
 	<title>インドネシアイベント &#8211; ジョグジャランジャラン</title>
-	<atom:link href="https://jogjalanjalan.com/category/tourism/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jogjalanjalan.com/category/tourism/event/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
 	<lastBuildDate>Thu, 29 Jun 2023 10:46:41 +0000</lastBuildDate>
