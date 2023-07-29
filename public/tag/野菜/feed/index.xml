@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>野菜 &#8211; ジョグジャランジャラン</title>
+	<atom:link href="https://jogjalanjalan.com/tag/%E9%87%8E%E8%8F%9C/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jogjalanjalan.com/</link>
+	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
+	<lastBuildDate>Sat, 29 Jul 2023 18:11:51 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
+	<title>野菜 &#8211; ジョグジャランジャラン</title>
+	<link>https://jogjalanjalan.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>東南アジア野菜 Kacang panjang 十六ささげ &#124; 栄養・レシピ</title>
+		<link>https://jogjalanjalan.com/kacang-panjang/</link>
+					<comments>https://jogjalanjalan.com/kacang-panjang/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2023 18:11:50 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[野菜]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1493</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/kacang-panjang-1024x536.png" class="webfeedsFeaturedVisual" /></p>Kacang Panjang (十六ささげ)とは? インドネシア名 Kacang Panjang 和名 十六ささげ / ジュウロクササゲ / 十六大角豆 英名 Asparagus Bean / Yard Long Bea [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/kacang-panjang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
