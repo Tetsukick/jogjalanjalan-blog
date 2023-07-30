@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.11' -->
-<!-- generated-on='2023年7月29日 6:12 PM' -->
+<!-- generated-on='2023年7月30日 5:10 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/top20-souvenirs-in-indonesia/</loc>
 		<lastmod>2023-07-06T11:13:34+00:00</lastmod>
@@ -60,4 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: dddab9ac26c9859da8e3e96f8ed527a9; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: a88bc3e9183738ce4a06bd771a0c9ac4; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
