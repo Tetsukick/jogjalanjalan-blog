@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 30 Jul 2023 17:09:09 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jul 2023 17:19:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>ジョグジャカルタご当地グルメ Gudeg とは？ &#124; レストラン情報</title>
-		<link>https://jogjalanjalan.com/%e3%82%b8%e3%83%a7%e3%82%b0%e3%82%b8%e3%83%a3%e3%82%ab%e3%83%ab%e3%82%bf%e3%81%94%e5%bd%93%e5%9c%b0%e3%82%b0%e3%83%ab%e3%83%a1-gudeg-%e3%81%a8%e3%81%af%ef%bc%9f-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9/</link>
-					<comments>https://jogjalanjalan.com/%e3%82%b8%e3%83%a7%e3%82%b0%e3%82%b8%e3%83%a3%e3%82%ab%e3%83%ab%e3%82%bf%e3%81%94%e5%bd%93%e5%9c%b0%e3%82%b0%e3%83%ab%e3%83%a1-gudeg-%e3%81%a8%e3%81%af%ef%bc%9f-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9/#respond</comments>
+		<link>https://jogjalanjalan.com/gudeg/</link>
+					<comments>https://jogjalanjalan.com/gudeg/#respond</comments>
 		
 		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
 		<pubDate>Sun, 30 Jul 2023 17:09:08 +0000</pubDate>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/gudeg-1024x536.png" class="webfeedsFeaturedVisual" /></p>Gudeg(グドゥッグ/グデッグ) とは? Gudeg（グデッグ）は、インドネシアのジョグジャカルタ特別州や中部ジャワ州など、ジャワ島中央部で広く愛されている伝統的な料理です。ジャワ料理の中でも特に人気のある料理であり、 [&#8230;]]]></description>
 		
-					<wfw:commentRss>https://jogjalanjalan.com/%e3%82%b8%e3%83%a7%e3%82%b0%e3%82%b8%e3%83%a3%e3%82%ab%e3%83%ab%e3%82%bf%e3%81%94%e5%bd%93%e5%9c%b0%e3%82%b0%e3%83%ab%e3%83%a1-gudeg-%e3%81%a8%e3%81%af%ef%bc%9f-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9/feed/</wfw:commentRss>
+					<wfw:commentRss>https://jogjalanjalan.com/gudeg/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
