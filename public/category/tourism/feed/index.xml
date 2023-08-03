@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sun, 30 Jul 2023 17:19:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Aug 2023 16:32:13 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタ 大人気レストラン Mediterranea Restaurant</title>
+		<link>https://jogjalanjalan.com/mediterranea-restaurant/</link>
+					<comments>https://jogjalanjalan.com/mediterranea-restaurant/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2023 16:32:11 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ジョグジャカルタ]]></category>
+		<category><![CDATA[レストラン]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1523</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/Mediterranea-Restaurant-1024x536.png" class="webfeedsFeaturedVisual" /></p>Mediterranea Restaurant by Kamil とは 2012年9月にオープンしたフレンチシェフがオーナーを務める地中海料理のレストラン パスタやピザはもちろん、ステーキ、サラダ、インドネシア料理、創作 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/mediterranea-restaurant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャカルタご当地グルメ Gudeg とは？ &#124; レストラン情報</title>
 		<link>https://jogjalanjalan.com/gudeg/</link>
 					<comments>https://jogjalanjalan.com/gudeg/#respond</comments>
@@ -319,24 +339,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/05/silver-art-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタの伝統工芸は、こんな感じでいっぱいあります。 銀線細工 フィリグリー(filigree) とは? フィリグリーとは、細い銀や金のワイヤーをねじり、編んでロープ状にする技法です。 職人の中には、ロープとワイ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/filigree-silverart/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタ 行き方 &#124; ジャカルタ⇔ジョグジャ</title>
-		<link>https://jogjalanjalan.com/from-jakarta-to-jogja/</link>
-					<comments>https://jogjalanjalan.com/from-jakarta-to-jogja/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 30 Apr 2023 10:47:12 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=705</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/transportation-fromjakarta-to-jogja-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、魅力的な観光都市・古都ジョグジャカルタ(Yogyakarta・jogja)への行き方を首都ジャカルタからのルートでご紹介いたします。ジョグジャカルタには、主に、飛行機、鉄道、高速バスで行くことができます。 行 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/from-jakarta-to-jogja/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
