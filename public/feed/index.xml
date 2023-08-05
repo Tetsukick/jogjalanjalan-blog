@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Thu, 03 Aug 2023 16:32:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Aug 2023 09:24:38 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>『インドネシア山旅の記』インドネシア関連本 読書レビュー</title>
+		<link>https://jogjalanjalan.com/indonesia-mountain-log-book/</link>
+					<comments>https://jogjalanjalan.com/indonesia-mountain-log-book/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 09:19:41 +0000</pubDate>
+				<category><![CDATA[インドネシア関連本]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1537</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/indonesia-mountain-book-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシア山旅の記 YAMAKEI CREATIVE SELECTION インドネシアの山は、山頂の壮絶な火口や静寂の湖、山頂直下の大平原や原生林、そして大岩壁など多彩な魅力にあふれている。インドネシアにある全3000 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/indonesia-mountain-log-book/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャカルタ 大人気レストラン Mediterranea Restaurant</title>
 		<link>https://jogjalanjalan.com/mediterranea-restaurant/</link>
 					<comments>https://jogjalanjalan.com/mediterranea-restaurant/#respond</comments>
@@ -300,26 +318,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/souvenir-indonesia-top20-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシア定番おみやげ ジャカルタへの出張や普段インドネシアに住んでいる在住日本人が、日本に一時帰国する際に頭を少し悩ますのがおみやげ問題ではないでしょうか？ 特に、インドネシア⇔日本間を数回、数十回と行き来される方は [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/top20-souvenirs-in-indonesia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>世界遺産 ボロブドゥール遺跡の歴史</title>
-		<link>https://jogjalanjalan.com/borobudur-history/</link>
-					<comments>https://jogjalanjalan.com/borobudur-history/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Thu, 29 Jun 2023 09:43:24 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[ボロブドゥール]]></category>
-		<category><![CDATA[世界遺産]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1250</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/06/borobudur-history-1024x536.png" class="webfeedsFeaturedVisual" /></p>世界遺産 ボロブドゥール遺跡とは？ ボロブドゥール遺跡は、インドネシア中部ジャワ島に位置する世界的に有名な仏教寺院であり、1991年には世界遺産にも登録されています。この遺跡は、9世紀から10世紀にかけてシャイレンドラ王 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/borobudur-history/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

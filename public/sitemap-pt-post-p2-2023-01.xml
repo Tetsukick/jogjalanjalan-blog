@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.12' -->
-<!-- generated-on='2023年8月3日 4:33 PM' -->
+<!-- generated-on='2023年8月5日 9:26 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/time-tense/</loc>
 		<lastmod>2023-05-05T17:21:24+00:00</lastmod>
@@ -32,8 +32,8 @@
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/restaurant-top5-in-jogja/</loc>
-		<lastmod>2023-05-01T10:16:43+00:00</lastmod>
+		<lastmod>2023-08-03T16:49:16+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: eaa56414b645287addb66045dd64f487; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: c064f6c28613a726f0b06cee56b14825; Queries for sitemap: 2; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
