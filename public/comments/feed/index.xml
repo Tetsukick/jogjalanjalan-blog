@@ -11,11 +11,11 @@
 	<atom:link href="https://jogjalanjalan.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Tue, 08 Aug 2023 17:49:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Aug 2023 12:52:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 </channel>
 </rss>
