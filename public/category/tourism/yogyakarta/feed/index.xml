@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/yogyakarta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Tue, 08 Aug 2023 11:14:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Aug 2023 20:40:23 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタご当地グルメ Sate Klatakとは &#124; レストラン情報</title>
+		<link>https://jogjalanjalan.com/sate-klatak/</link>
+					<comments>https://jogjalanjalan.com/sate-klatak/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2023 20:37:31 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ご当地グルメ]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1596</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/sate-klatak-eye-catch-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタのご当地グルメ Sate Klatak(Sate Klathak)とは？ Sate Klatak(サテ・クラタク)は、ヤギ肉を使ったサテ(串焼き)です。 このサテが他のSateと違うのは、サテを加工するた [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/sate-klatak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア産チョコレート Monggo とは？ &#124; インドネシア土産</title>
 		<link>https://jogjalanjalan.com/monggo-chocolate/</link>
 					<comments>https://jogjalanjalan.com/monggo-chocolate/#respond</comments>
@@ -315,24 +334,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/malioboro-guide-1024x536.png" class="webfeedsFeaturedVisual" /></p>本記事では、ジョグジャカルタの最大の繁華街であるマリオボロ通り(jalan malioboro)のレストラン情報、お土産情報、アクティビティ情報をご紹介いたします。 調べずに行くと意外と何もせずに終わってしまうといったよ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/malioboro-perfect-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>【ジョグジャ観光】90分でできるバティック体験</title>
-		<link>https://jogjalanjalan.com/jogja-try-batik-90min/</link>
-					<comments>https://jogjalanjalan.com/jogja-try-batik-90min/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sun, 23 Apr 2023 05:11:45 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=571</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/04/try-make-batik-1024x536.png" class="webfeedsFeaturedVisual" /></p>インドネシアのバティック(batik)は、世界的に有名な伝統的な布地で、手作業によって染色され、美しい模様が描かれています。この布地は、インドネシアにおける重要な文化遺産の一つであり、世界中で高い評価を得ています。バティ [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/jogja-try-batik-90min/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
