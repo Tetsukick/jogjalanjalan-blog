@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/tag/%E3%81%94%E5%BD%93%E5%9C%B0%E3%82%B0%E3%83%AB%E3%83%A1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 12 Aug 2023 20:40:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Aug 2023 14:10:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bakmi Jowo Mbah Gitoでジャワの食文化体験</title>
+		<link>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/</link>
+					<comments>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 14:10:03 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ご当地グルメ]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1618</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/bakmi-jowo-mbak-gito-1024x536.png" class="webfeedsFeaturedVisual" /></p>Bakmi Jowo Mbah Gitoとは？ Bakmi Jawa Mbah Gito(バクミ・ジャワ・ムバ・ギト)は、地元の人や観光客の間でとても有名なお店です。 人気のメニューは以下の3つです。 こちらのお店は、2 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ジョグジャカルタご当地グルメ Sate Klatakとは &#124; レストラン情報</title>
 		<link>https://jogjalanjalan.com/sate-klatak/</link>
 					<comments>https://jogjalanjalan.com/sate-klatak/#respond</comments>
