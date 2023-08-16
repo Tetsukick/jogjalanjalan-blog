@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/event/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Fri, 14 Jul 2023 17:33:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Aug 2023 13:05:19 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタのアートイベント ARTJOG 2023の参加レポート</title>
+		<link>https://jogjalanjalan.com/artjog-2023/</link>
+					<comments>https://jogjalanjalan.com/artjog-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2023 13:05:18 +0000</pubDate>
+				<category><![CDATA[インドネシアイベント]]></category>
+		<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[イベント]]></category>
+		<category><![CDATA[芸術]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1624</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/artjog-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャ最大の芸術イベント ARTJOG とは? アート・ジョグ（Art Jog）は、毎年ジョグジャカルタで開催される現代アートのフェスティバル、展覧会、マーケットです。 ARTJOGは、2015年までTaman Bu [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/artjog-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>プランバナンジャズフェスティバル2023参加してきました！</title>
 		<link>https://jogjalanjalan.com/prambanan-jazz-2023-report/</link>
 					<comments>https://jogjalanjalan.com/prambanan-jazz-2023-report/#respond</comments>
