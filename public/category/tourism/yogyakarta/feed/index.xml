@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/yogyakarta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 16 Aug 2023 17:23:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Aug 2023 17:46:23 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,6 +36,7 @@
 		<pubDate>Wed, 16 Aug 2023 17:23:46 +0000</pubDate>
 				<category><![CDATA[ジョグジャカルタ観光]]></category>
 		<category><![CDATA[観光]]></category>
+		<category><![CDATA[recommended]]></category>
 		<category><![CDATA[ジョグジャカルタ]]></category>
 		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1594</guid>
 
