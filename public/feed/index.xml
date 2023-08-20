@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 19 Aug 2023 10:43:29 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Aug 2023 06:46:06 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ジョグジャカルタで本格イタリアンGiorno&#8217;s Pizzeria</title>
+		<link>https://jogjalanjalan.com/giorno-pizzeria/</link>
+					<comments>https://jogjalanjalan.com/giorno-pizzeria/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2023 06:46:05 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[レストラン]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1704</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/eye-catch-giorno-pizzeria-1024x536.png" class="webfeedsFeaturedVisual" /></p>Giorno&#8217;s Pizzeria とは? Giorno&#8217;s Pizzeriaは、ジョグジャカルタの中心地、Ambarkmo Plazaの目の前にできた本格イタリアンレストランです。 お店は202 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/giorno-pizzeria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア・ジャワ名物料理 &#8220;Tahu Walik&#8221; とは &#124; レシピ・屋台</title>
 		<link>https://jogjalanjalan.com/tahu-walik/</link>
 					<comments>https://jogjalanjalan.com/tahu-walik/#respond</comments>
@@ -293,25 +311,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/kacang-panjang-1024x536.png" class="webfeedsFeaturedVisual" /></p>Kacang Panjang (十六ささげ)とは? インドネシア名 Kacang Panjang 和名 十六ささげ / ジュウロクササゲ / 十六大角豆 英名 Asparagus Bean / Yard Long Bea [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/kacang-panjang/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>2023年7月 リッツ・カールトン バリ 宿泊体験レポート</title>
-		<link>https://jogjalanjalan.com/ritzcarlton-bali/</link>
-					<comments>https://jogjalanjalan.com/ritzcarlton-bali/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 29 Jul 2023 05:50:00 +0000</pubDate>
-				<category><![CDATA[バリ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[バリ]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1395</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/rits-carlton-bali-1024x536.png" class="webfeedsFeaturedVisual" /></p>お部屋について 今回は、リッツ・カールトン バリの一番安いグレードの部屋(Sawangan Junior Suite)を予約していました。しかし、当日訪れるとより高いグレードのVillaにアップグレードされていました！！ [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/ritzcarlton-bali/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
