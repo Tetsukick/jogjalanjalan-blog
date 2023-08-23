@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年8月21日 4:06 PM' -->
+<!-- generated-on='2023年8月23日 2:16 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/bpjs-jht/</loc>
+		<lastmod>2023-08-12T10:01:41+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/rhinos/</loc>
 		<lastmod>2023-08-08T17:49:54+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -24,4 +30,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: d372aa00baa1696527b91e7d4db539ab; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: f41a05768ec3187729772c138e8057a8; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
