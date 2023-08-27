@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/tag/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 26 Aug 2023 11:58:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Aug 2023 06:15:54 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア アチェガヨコーヒーとは? &#124; 豆・産地・味の特徴まで詳しく解説</title>
+		<link>https://jogjalanjalan.com/kopi-aceh-gayo/</link>
+					<comments>https://jogjalanjalan.com/kopi-aceh-gayo/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 27 Aug 2023 06:15:53 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<category><![CDATA[コーヒー]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1778</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/eye-catch-kopi-aceh-gayo-1024x536.png" class="webfeedsFeaturedVisual" /></p>アチェガヨコーヒー(Kopi Aceh Gayo)について アチェガヨ・コーヒー(あるいはガヨマウンテンとも呼ばれる)の風味の特徴は、強いボディとアロマです。酸味は弱く、わずかにスパイスの風味があります。アチェ・ガヨ・コ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/kopi-aceh-gayo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア ジャワコーヒーとは? &#124; 豆・産地・味の特徴まで詳しく解説</title>
 		<link>https://jogjalanjalan.com/kopi-jawa/</link>
 					<comments>https://jogjalanjalan.com/kopi-jawa/#respond</comments>
