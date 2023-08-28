@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年8月28日 5:34 AM' -->
+<!-- generated-on='2023年8月28日 5:30 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/company-type/</loc>
+		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/kopi-floresbajawa/</loc>
-		<lastmod>2023-08-28T05:33:55+00:00</lastmod>
+		<lastmod>2023-08-28T15:08:00+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/kopi-aceh-gayo/</loc>
-		<lastmod>2023-08-27T06:15:54+00:00</lastmod>
+		<lastmod>2023-08-28T15:08:32+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/kopi-jawa/</loc>
-		<lastmod>2023-08-26T11:58:54+00:00</lastmod>
+		<lastmod>2023-08-28T15:07:45+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -54,10 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-	<url>
-		<loc>https://jogjalanjalan.com/jogja-best-activity/</loc>
-		<lastmod>2023-08-16T17:36:45+00:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>0.8</priority>
-	</url>
-</urlset><!-- Request ID: 2476e90da10709213b733fadb6967e6a; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: de3a37a402a8ac9675246042c69756e9; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
