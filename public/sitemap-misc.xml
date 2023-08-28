@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年8月28日 5:34 AM' -->
+<!-- generated-on='2023年8月28日 5:30 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/</loc>
-		<lastmod>2023-08-28T05:33:55+00:00</lastmod>
+		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 3eb56a19c67e6adaca97f83fbeb80167; Queries for sitemap: 3; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: bd589d9e900cdd5de92661e513cf5e1b; Queries for sitemap: 3; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
