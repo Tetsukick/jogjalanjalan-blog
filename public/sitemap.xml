@@ -1,24 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年8月28日 5:30 PM' -->
+<!-- generated-on='2023年8月29日 6:24 PM' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-misc.xml</loc>
-		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-1.xml</loc>
-		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-2.xml</loc>
-		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-08.xml</loc>
-		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p2-2023-08.xml</loc>
-		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://jogjalanjalan.com/sitemap-pt-post-p3-2023-08.xml</loc>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-07.xml</loc>
@@ -72,4 +76,4 @@
 		<loc>https://jogjalanjalan.com/sitemap-pt-page-p1-2023-01.xml</loc>
 		<lastmod>2023-06-27T16:22:07+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: d3d68d0aa298cab1836ffc9d0ef8cfa4; Queries for sitemap: 8; Total queries: 33; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: d201d589dc9db2ccf3b8e5a07610cdd6; Queries for sitemap: 8; Total queries: 33; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 14MB -->

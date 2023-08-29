@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年8月28日 5:30 PM' -->
+<!-- generated-on='2023年8月29日 6:24 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/kunyit%e3%83%bcasam/</loc>
+		<lastmod>2023-08-29T18:23:05+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/company-type/</loc>
 		<lastmod>2023-08-28T17:30:08+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -54,10 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-	<url>
-		<loc>https://jogjalanjalan.com/norit/</loc>
-		<lastmod>2023-08-17T16:19:52+00:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>0.8</priority>
-	</url>
-</urlset><!-- Request ID: de3a37a402a8ac9675246042c69756e9; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: f51eeabbb33c597a99066ef1f4abae41; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
