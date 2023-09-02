@@ -12,13 +12,13 @@
 	<atom:link href="https://jogjalanjalan.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Tue, 29 Aug 2023 18:32:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Sep 2023 08:46:55 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>若者に人気！インドネシア料理 &#8220;Ayam Geprek&#8221; とは? &#124; レシピ・注文方法</title>
+		<link>https://jogjalanjalan.com/ayam-geprek/</link>
+					<comments>https://jogjalanjalan.com/ayam-geprek/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2023 08:46:54 +0000</pubDate>
+				<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[食べ物]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1829</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/09/eye-catch-ayam-geprek-1024x536.png" class="webfeedsFeaturedVisual" /></p>Ayam Geprek (アヤム・グプレック)とは？ Ayam Geprekとは、Ayam Goreng(フライドチキン)をサンバル（sambal, 唐辛子等を用いたインドネシアの調味料）と混ぜ合わせて、すり鉢(Cobe [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/ayam-geprek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア健康飲料 ジャムウ クニット・アッサムとは？&#124;レシピ・味の特徴</title>
 		<link>https://jogjalanjalan.com/kunyit-asam/</link>
 					<comments>https://jogjalanjalan.com/kunyit-asam/#respond</comments>
@@ -292,25 +310,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/artjog-2023-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャ最大の芸術イベント ARTJOG とは? アート・ジョグ（Art Jog）は、毎年ジョグジャカルタで開催される現代アートのフェスティバル、展覧会、マーケットです。 ARTJOGは、2015年までTaman Bu [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/artjog-2023/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bakmi Jowo Mbah Gitoでジャワの食文化体験</title>
-		<link>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/</link>
-					<comments>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Mon, 14 Aug 2023 14:10:03 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[ご当地グルメ]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1618</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/bakmi-jowo-mbak-gito-1024x536.png" class="webfeedsFeaturedVisual" /></p>Bakmi Jowo Mbah Gitoとは？ Bakmi Jawa Mbah Gito(バクミ・ジャワ・ムバ・ギト)は、地元の人や観光客の間でとても有名なお店です。 人気のメニューは以下の3つです。 こちらのお店は、2 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/bakmi-jowo-mbah-gito/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
