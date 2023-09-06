@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年9月5日 5:56 PM' -->
+<!-- generated-on='2023年9月6日 5:02 PM' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-misc.xml</loc>
-		<lastmod>2023-09-05T17:55:10+00:00</lastmod>
+		<lastmod>2023-09-06T17:01:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-1.xml</loc>
-		<lastmod>2023-09-05T17:55:10+00:00</lastmod>
+		<lastmod>2023-09-06T17:01:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-tax-category-2.xml</loc>
-		<lastmod>2023-09-05T17:55:10+00:00</lastmod>
+		<lastmod>2023-09-06T17:01:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-09.xml</loc>
-		<lastmod>2023-09-05T17:55:10+00:00</lastmod>
+		<lastmod>2023-09-06T17:01:35+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-08.xml</loc>
@@ -54,11 +54,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-04.xml</loc>
-		<lastmod>2023-08-23T14:57:02+00:00</lastmod>
+		<lastmod>2023-09-06T15:37:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p2-2023-04.xml</loc>
-		<lastmod>2023-08-23T14:57:02+00:00</lastmod>
+		<lastmod>2023-09-06T15:37:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-03.xml</loc>
@@ -66,7 +66,7 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-02.xml</loc>
-		<lastmod>2023-09-05T17:46:39+00:00</lastmod>
+		<lastmod>2023-09-06T15:39:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://jogjalanjalan.com/sitemap-pt-post-p1-2023-01.xml</loc>
@@ -80,4 +80,4 @@
 		<loc>https://jogjalanjalan.com/sitemap-pt-page-p1-2023-01.xml</loc>
 		<lastmod>2023-06-27T16:22:07+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 20b9fc5e0f36e0f00e4069b3df459ab2; Queries for sitemap: 8; Total queries: 33; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: bcc310c574b1ff2c0da2dcb6f2c0a2ab; Queries for sitemap: 8; Total queries: 33; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
