@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年9月6日 5:02 PM' -->
+<!-- generated-on='2023年9月8日 12:21 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
+		<loc>https://jogjalanjalan.com/filigree-workshop-hs-silver/</loc>
+		<lastmod>2023-09-08T12:20:48+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://jogjalanjalan.com/bale-raos/</loc>
 		<lastmod>2023-09-06T17:01:35+00:00</lastmod>
 		<changefreq>daily</changefreq>
@@ -24,4 +30,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 557c4286f040863ab990ac04ce31be3e; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 369823c2123301b4f3124f0883f6fe09; Queries for sitemap: 2; Total queries: 27; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
