@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/life-in-indonesia/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 09 Sep 2023 12:47:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Sep 2023 09:27:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシアの詐欺の話『電子決済QRISがエラーで…』</title>
+		<link>https://jogjalanjalan.com/scam-qris/</link>
+					<comments>https://jogjalanjalan.com/scam-qris/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 16 Sep 2023 09:27:41 +0000</pubDate>
+				<category><![CDATA[事件]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[詐欺]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1972</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/09/scam-qris-1024x536.png" class="webfeedsFeaturedVisual" /></p>電子決済エラーを利用した詐欺 実際の詐欺の状況を再現 とある夜22:00頃に家近くのサークルK(コンビニエンスストア)に行きました。これはそこで起きた詐欺の話です。登場人物は店員と私の2人。その時間帯はいわゆるワンオペの [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/scam-qris/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア ジャワ名物 Gula Arenとは? &#124; 栄養・使い方</title>
 		<link>https://jogjalanjalan.com/gula-aren/</link>
 					<comments>https://jogjalanjalan.com/gula-aren/#respond</comments>
@@ -289,25 +308,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/gudeg-1024x536.png" class="webfeedsFeaturedVisual" /></p>Gudeg(グドゥッグ/グデッグ) とは? Gudeg（グデッグ）は、インドネシアのジョグジャカルタ特別州や中部ジャワ州など、ジャワ島中央部で広く愛されている伝統的な料理です。ジャワ料理の中でも特に人気のある料理であり、 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/gudeg/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>東南アジア野菜 Kacang panjang 十六ささげ &#124; 栄養・レシピ</title>
-		<link>https://jogjalanjalan.com/kacang-panjang/</link>
-					<comments>https://jogjalanjalan.com/kacang-panjang/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Sat, 29 Jul 2023 18:11:50 +0000</pubDate>
-				<category><![CDATA[海外生活]]></category>
-		<category><![CDATA[食べ物]]></category>
-		<category><![CDATA[野菜]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1493</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/07/kacang-panjang-1024x536.png" class="webfeedsFeaturedVisual" /></p>Kacang Panjang (十六ささげ)とは? インドネシア名 Kacang Panjang 和名 十六ささげ / ジュウロクササゲ / 十六大角豆 英名 Asparagus Bean / Yard Long Bea [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/kacang-panjang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

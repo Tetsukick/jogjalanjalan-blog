@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/life-in-indonesia/incident/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Fri, 05 May 2023 18:46:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Sep 2023 09:27:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシアの詐欺の話『電子決済QRISがエラーで…』</title>
+		<link>https://jogjalanjalan.com/scam-qris/</link>
+					<comments>https://jogjalanjalan.com/scam-qris/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sat, 16 Sep 2023 09:27:41 +0000</pubDate>
+				<category><![CDATA[事件]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[詐欺]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1972</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/09/scam-qris-1024x536.png" class="webfeedsFeaturedVisual" /></p>電子決済エラーを利用した詐欺 実際の詐欺の状況を再現 とある夜22:00頃に家近くのサークルK(コンビニエンスストア)に行きました。これはそこで起きた詐欺の話です。登場人物は店員と私の2人。その時間帯はいわゆるワンオペの [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/scam-qris/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシアで詐欺に遭いそうになった話</title>
 		<link>https://jogjalanjalan.com/indonesia-scam-jne-whatsapp/</link>
 					<comments>https://jogjalanjalan.com/indonesia-scam-jne-whatsapp/#respond</comments>
