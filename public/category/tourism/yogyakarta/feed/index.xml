@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/tourism/yogyakarta/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Sat, 16 Sep 2023 19:00:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 05:55:26 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>知るともっと楽しめる世界遺産ボロブドゥールのレリーフの見どころ</title>
+		<link>https://jogjalanjalan.com/borobudur-relief/</link>
+					<comments>https://jogjalanjalan.com/borobudur-relief/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2023 05:55:25 +0000</pubDate>
+				<category><![CDATA[ジョグジャカルタ観光]]></category>
+		<category><![CDATA[観光]]></category>
+		<category><![CDATA[ボロブドゥール]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=2038</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/09/eyecatch-borobudur-relief-1024x536.png" class="webfeedsFeaturedVisual" /></p>レリーフに残された物語 ボロブドゥール寺院(Candi Borobudur)は8世紀に建てられ、2,670以上のレリーフが壁面に描かれています。それぞれのレリーフは、当時の日常生活の美しい物語をいまに伝えています。 レリ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/borobudur-relief/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>在住日本人おすすめ！ジョグジャカルタのおいしい日本食レストラン</title>
 		<link>https://jogjalanjalan.com/jogja-recommended-japanese-restaurant/</link>
 					<comments>https://jogjalanjalan.com/jogja-recommended-japanese-restaurant/#respond</comments>
@@ -297,26 +316,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/monggo-chocolate-1024x536.png" class="webfeedsFeaturedVisual" /></p>Chocolate Monggo とは？ インドネシア国内でよく見かける &#8220;Monggo&#8221;というブランドのチョコレートですが、このブランドはジョグジャに工場があるジョグジャカルタ発のチョコレートブ [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/monggo-chocolate/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ジョグジャカルタ 大人気レストラン Mediterranea Restaurant</title>
-		<link>https://jogjalanjalan.com/mediterranea-restaurant/</link>
-					<comments>https://jogjalanjalan.com/mediterranea-restaurant/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Thu, 03 Aug 2023 16:32:11 +0000</pubDate>
-				<category><![CDATA[ジョグジャカルタ観光]]></category>
-		<category><![CDATA[観光]]></category>
-		<category><![CDATA[ジョグジャカルタ]]></category>
-		<category><![CDATA[レストラン]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1523</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/Mediterranea-Restaurant-1024x536.png" class="webfeedsFeaturedVisual" /></p>Mediterranea Restaurant by Kamil とは 2012年9月にオープンしたフレンチシェフがオーナーを務める地中海料理のレストラン パスタやピザはもちろん、ステーキ、サラダ、インドネシア料理、創作 [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/mediterranea-restaurant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
