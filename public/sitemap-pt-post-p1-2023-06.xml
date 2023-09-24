@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年9月23日 1:11 PM' -->
+<!-- generated-on='2023年9月24日 6:01 AM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/top20-souvenirs-in-indonesia/</loc>
-		<lastmod>2023-09-09T04:38:30+00:00</lastmod>
+		<lastmod>2023-09-24T05:57:08+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://jogjalanjalan.com/borobudur-history/</loc>
-		<lastmod>2023-06-29T09:43:25+00:00</lastmod>
+		<lastmod>2023-09-24T05:59:05+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -60,4 +60,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
-</urlset><!-- Request ID: 9e4585601779941f4f45d4d84e66d0d4; Queries for sitemap: 3; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 5a54ca34d0ed2d4ffbc8dc0ade65f68c; Queries for sitemap: 3; Total queries: 28; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
