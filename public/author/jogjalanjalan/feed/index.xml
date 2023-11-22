@@ -12,13 +12,13 @@
 	<atom:link href="https://jogjalanjalan.com/author/jogjalanjalan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Wed, 25 Oct 2023 04:50:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2023 09:18:50 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://jogjalanjalan.com/wp-content/uploads/2023/01/cropped-site_icon-1-32x32.png</url>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア関連小説『人間の大地(上)』読書レビュー</title>
+		<link>https://jogjalanjalan.com/bumi-manusia-1-book-review/</link>
+					<comments>https://jogjalanjalan.com/bumi-manusia-1-book-review/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2023 09:18:48 +0000</pubDate>
+				<category><![CDATA[インドネシア関連本]]></category>
+		<category><![CDATA[海外生活]]></category>
+		<category><![CDATA[読書記録]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=2097</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/11/bumi-manusia-1-1024x536.png" class="webfeedsFeaturedVisual" /></p>本の紹介『人間の大地(上)』 概要 『人間の大地』は、1969年から10年間流刑地ブル島に勾留され、表現手段を奪われたプラムディヤが、同房の政治犯にそのストーリを日夜語って聞かせたという、途方もないスケールの４部策の第１ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/bumi-manusia-1-book-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシア関連小説『赤道星降る夜 (古内一絵)』読書レビュー</title>
 		<link>https://jogjalanjalan.com/sekidou-hoshi-huruyoru/</link>
 					<comments>https://jogjalanjalan.com/sekidou-hoshi-huruyoru/#respond</comments>
@@ -287,24 +306,6 @@
 					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/eye-catch-kunyit-asam-1024x536.png" class="webfeedsFeaturedVisual" /></p>＼ ジャムウについてもっと詳しく知りたい方に！ ／ ジャムウ クニット・アッサム(Kunyit Asam)とは？ 主に、クニット・アッサムとはウコン(Kunyit)とタマリンド(Asam Jawa)を用いて作られる健康的 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://jogjalanjalan.com/kunyit-asam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>インドネシアの会社種別・形態について &#124; PT・CV・PMA・Firma</title>
-		<link>https://jogjalanjalan.com/company-type/</link>
-					<comments>https://jogjalanjalan.com/company-type/#respond</comments>
-		
-		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
-		<pubDate>Mon, 28 Aug 2023 17:30:07 +0000</pubDate>
-				<category><![CDATA[インドネシア会社設立]]></category>
-		<category><![CDATA[ビジネス]]></category>
-		<guid isPermaLink="false">https://jogjalanjalan.com/?p=1808</guid>
-
-					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/08/eye-catch-company-type-1024x538.png" class="webfeedsFeaturedVisual" /></p>インドネシアの会社の種類 インドネシアの会社は、大きく分けて以下の3つに分けることができます。 株式会社(PT: Perseoran Terbatas) 有限責任であり、公開や非公開、会社規模によりさらに細かく分類されま [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://jogjalanjalan.com/company-type/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
