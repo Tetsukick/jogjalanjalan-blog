@@ -12,7 +12,7 @@
 	<atom:link href="https://jogjalanjalan.com/category/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jogjalanjalan.com/</link>
 	<description>インドネシアの古都ジョグジャから、観光、現地生活の『いろは』を紹介</description>
-	<lastBuildDate>Mon, 28 Aug 2023 17:30:08 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Dec 2023 01:02:27 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>インドネシア &#124; ジョグジャカルタに開発拠点を持つ大手・日系企業</title>
+		<link>https://jogjalanjalan.com/development-company-or-department-in-jogja/</link>
+					<comments>https://jogjalanjalan.com/development-company-or-department-in-jogja/#respond</comments>
+		
+		<dc:creator><![CDATA[KIKUCHI TEPPEI]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2023 01:02:26 +0000</pubDate>
+				<category><![CDATA[インドネシア市場]]></category>
+		<category><![CDATA[ビジネス]]></category>
+		<guid isPermaLink="false">https://jogjalanjalan.com/?p=2125</guid>
+
+					<description><![CDATA[<p><img src="https://jogjalanjalan.com/wp-content/uploads/2023/12/jogja-office-company-list-1024x536.png" class="webfeedsFeaturedVisual" /></p>ジョグジャカルタに開発拠点を持つ日系企業 アジアクエスト株式会社 (PT.AQ Business Consulting Indonesia) 2021年より東京証券取引所マザーズ市場に上場している日本のSIer企業 PT [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://jogjalanjalan.com/development-company-or-department-in-jogja/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>インドネシアの会社種別・形態について &#124; PT・CV・PMA・Firma</title>
 		<link>https://jogjalanjalan.com/company-type/</link>
 					<comments>https://jogjalanjalan.com/company-type/#respond</comments>
