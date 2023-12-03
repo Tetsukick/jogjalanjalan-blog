@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://jogjalanjalan.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.13' -->
-<!-- generated-on='2023年12月3日 1:19 AM' -->
+<!-- generated-on='2023年12月3日 9:36 PM' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://jogjalanjalan.com/category/tourism/event/</loc>
 		<changefreq>daily</changefreq>
@@ -50,4 +50,4 @@
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
-</urlset><!-- Request ID: cc6db6de1133281683915604388ae8ea; Queries for sitemap: 4; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 631494ce151012ddf8b757a85f80f3ca; Queries for sitemap: 4; Total queries: 29; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 2MB -->
